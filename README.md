@@ -1,5 +1,7 @@
 # README
 
+Replication code. Integrates LandVote, LCV, and U.S. election data.
+
 For details on data processing, please refer to the our code for [LandVote](https://github.com/cassiebuhler/datasets/tree/main/landvote), [census boundaires](https://github.com/cassiebuhler/datasets/tree/main/census), and [political party](https://github.com/cassiebuhler/datasets/tree/main/political_parties).
 
 #### Data sources
