@@ -197,4 +197,47 @@ def bar_chart(df, y, group, title, y_title, stat='percent'):
         .properties(width=300, height=160)
     )
 
+def row_bar_chart(df, category_col, title, x_title="% of party's measures",
+                  category_order=None, n_col="n_measures"):
+    """
+    Horizontal grouped bar chart faceted by category, comparing Dem vs. Rep.
+
+    df must have columns: category_col, 'party', 'pct', and optionally n_col.
+    category_order: list of category values in display order (top to bottom).
+    """
+    party_colors = alt.Scale(
+        domain=[LABEL_D, LABEL_R],
+        range=[colors["dem_blue"], colors["rep_red"]],
+    )
+    legend = alt.Legend(
+        title=None, labelFontSize=20, labelLimit=500,
+        orient='top', direction='horizontal', offset=5,
+    )
+    x_axis = alt.Axis(
+        format=".0f", labelFontSize=20, titleFontSize=24,
+        labelPadding=4, titlePadding=10,
+    )
+    row_header = alt.Header(
+        labelAngle=0, labelOrient="left", labelAlign="left",
+        labelFontSize=20, labelLimit=600,
+    )
+    return (
+        alt.Chart(df, title=alt.TitleParams(text=title, fontSize=28, dy=-5))
+        .transform_calculate(
+            party_label=(
+                f"datum.party === 'Republican' ? '{LABEL_R}' : "
+                f"datum.party === 'Democrat' ? '{LABEL_D}' : "
+                f"datum.party"
+            )
+        )
+        .mark_bar()
+        .encode(
+            y=alt.Y("party_label:N", title=None, axis=alt.Axis(labels=False, ticks=False)),
+            x=alt.X("pct:Q", title=x_title, axis=x_axis),
+            color=alt.Color("party_label:N", scale=party_colors, legend=legend),
+            row=alt.Row(f"{category_col}:N", sort=category_order, title=None, header=row_header),
+            tooltip=[category_col, "party_label:N", n_col, alt.Tooltip("pct:Q", format=".1f")],
+        )
+        .properties(width=800, height=60)
+    )
 ## graphing utils 
