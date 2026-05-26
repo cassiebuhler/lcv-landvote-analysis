@@ -8,6 +8,8 @@ For details on data processing, please refer to the our code for [LandVote](http
 
 - TPL LandVote Database by Trust for Public Land. Data: https://tpl.quickbase.com/db/bbqna2qct?a=dbpage&pageID=8. Citation: The Trust for Public Land, LandVote®, 2025, www.landvote.org., License: Public Domain
 
+- League of Conservation Voters. (2026). Congressional scorecard: Congressional votes [dataset]. https://www.lcv.org/congressional-scorecard/congressional-votes/
+
 - MIT Election Data and Science Lab. (2017). U.S. President 1976-2020 (Version V8) [dataset]. Harvard Dataverse. https://doi.org/10.7910/DVN/42MVDX 
 
 - MIT Election Data and Science Lab. (2018). County Presidential Election Returns 2000-2024 (Version V16) [dataset]. Harvard Dataverse. https://doi.org/10.7910/DVN/VOQCHQ
