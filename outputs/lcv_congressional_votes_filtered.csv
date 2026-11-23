@@ -1,0 +1,626 @@
+year,chamber,vote_title,roll_call_vote_number,vote_link,votes_for,votes_against,not_voting,pro_enviro_vote,outcome,id,categories
+2007,house,Electric Transmission Corridors,526,https://www.lcv.org/roll-call-vote/electric-transmission-corridors/,172,254,6,true,failed,electric-transmission-corridors,[public_lands]
+2019,house,Blocking Protections for Endangered Whales,372,https://www.lcv.org/roll-call-vote/blocking-protections-for-endangered-whales/,84,345,7,false,failed,blocking-protections-for-endangered-whales,"[wildlife, public_lands]"
+2005,house,Arctic National Wildlife Refuge,149,https://www.lcv.org/roll-call-vote/arctic-national-wildlife-refuge-4/,214,211,10,false,passed,arctic-national-wildlife-refuge-4,"[wildlife, public_lands]"
+2013,house,Ban on Federal Fracking Safeguards,604,https://www.lcv.org/roll-call-vote/ban-on-federal-fracking-safeguards/,235,187,9,false,passed,ban-on-federal-fracking-safeguards,"[public_lands, clean_water]"
+2019,house,Blocking Logging in the Tongass National Forest,382,https://www.lcv.org/roll-call-vote/blocking-logging-in-the-tongass-national-forest/,243,188,5,true,passed,blocking-logging-in-the-tongass-national-forest,[public_lands]
+2018,house,Blocking Protections for Gray Wolves,420,https://www.lcv.org/roll-call-vote/blocking-protections-for-gray-wolves/,196,180,54,false,passed,blocking-protections-for-gray-wolves,[wildlife]
+2008,senate,Public Lands Protection,101,https://www.lcv.org/roll-call-vote/public-lands-protection-3/,91,4,5,true,passed,public-lands-protection-3,"[clean_water, public_lands, wildlife]"
+2019,senate,Jorjani Confirmation (Interior Solicitor),300,https://www.lcv.org/roll-call-vote/jorjani-confirmation-interior-solicitor/,51,43,5,false,passed,jorjani-confirmation-interior-solicitor,[public_lands]
+2003,house,Arctic Drilling,135,https://www.lcv.org/roll-call-vote/arctic-drilling-3/,197,228,9,true,failed,arctic-drilling-3,"[wildlife, public_lands]"
+2020,house,Phasing Out Harmful Fishing Gear,242,https://www.lcv.org/roll-call-vote/phasing-out-harmful-fishing-gear/,283,105,41,true,passed,phasing-out-harmful-fishing-gear,"[wildlife, public_lands]"
+2020,house,Great American Outdoors Act,155,https://www.lcv.org/roll-call-vote/great-american-outdoors-act-2/,310,107,12,true,passed,great-american-outdoors-act-2,[public_lands]
+1992,house,River Protection,142,https://www.lcv.org/roll-call-vote/river-protection/,195,221,18,false,failed,river-protection,"[clean_water, wildlife, public_lands]"
+2009,house,Protecting the Mollalla River,905,https://www.lcv.org/roll-call-vote/protecting-the-mollalla-river/,292,133,9,true,passed,protecting-the-mollalla-river,"[clean_water, wildlife]"
+2018,house,Assault on Endangered Salmon and Environmental Review,153,https://www.lcv.org/roll-call-vote/assault-on-endangered-salmon-and-environmental-review-2/,225,189,14,false,passed,assault-on-endangered-salmon-and-environmental-review-2,"[clean_water, wildlife]"
+2025,senate,Reversing Public Lands Protections to Promote Wyoming Coal Development,623,https://www.lcv.org/roll-call-vote/reversing-public-lands-protections-to-promote-wyoming-coal-development-2/,51,43,6,false,passed,reversing-public-lands-protections-to-promote-wyoming-coal-development-2,"[wildlife, public_lands]"
+2022,house,Slashing Environmental Funding,367,https://www.lcv.org/roll-call-vote/slashing-environmental-funding/,199,229,7,false,failed,slashing-environmental-funding,[clean_water]
+2026,house,Removing Clean Energy and Efficiency Standards for Federal Buildings,134,https://www.lcv.org/roll-call-vote/removing-clean-energy-and-efficiency-standards-for-federal-buildings/,215,202,13,false,passed,removing-clean-energy-and-efficiency-standards-for-federal-buildings,[clean_water]
+2016,house,Land and Water Conservation Fund (LWCF),264,https://www.lcv.org/roll-call-vote/land-and-water-conservation-fund-lwcf/,205,212,15,true,failed,land-and-water-conservation-fund-lwcf,[public_lands]
+2023,house,Attacking Endangered Species,575,https://www.lcv.org/roll-call-vote/attacking-endangered-species-2/,213,212,9,false,passed,attacking-endangered-species-2,[wildlife]
+2016,house,Lead Poisoning Safeguards,429,https://www.lcv.org/roll-call-vote/lead-poisoning-safeguards/,195,231,6,true,failed,lead-poisoning-safeguards,[clean_water]
+2017,senate,Zinke Confirmation (Interior Secretary),75,https://www.lcv.org/roll-call-vote/zinke-confirmation-interior-secretary/,68,31,1,false,passed,zinke-confirmation-interior-secretary,"[public_lands, wildlife]"
+1994,house,"California Desert &#8212; Endangered Species",325,https://www.lcv.org/roll-call-vote/california-desert-endangered-species/,281,144,9,false,passed,california-desert-endangered-species,"[wildlife, public_lands]"
+2019,house,Stopping Border Wall Funding,9,https://www.lcv.org/roll-call-vote/stopping-border-wall-funding-3/,239,192,1,true,passed,stopping-border-wall-funding-3,"[wildlife, public_lands]"
+1998,senate,Environmental Funding Priorities,65,https://www.lcv.org/roll-call-vote/environmental-funding-priorities/,47,52,1,true,failed,environmental-funding-priorities,"[clean_water, public_lands]"
+2017,house,"Assault on Clean Energy &#038; Clean Water",435,https://www.lcv.org/roll-call-vote/assault-on-clean-energy-clean-water/,470,384,11,false,passed,assault-on-clean-energy-clean-water,"[clean_water, public_lands]"
+2025,senate,Reversing Land Management Planning to Open the Arctic Refuge to Oil and Gas Drilling,632,https://www.lcv.org/roll-call-vote/reversing-land-management-planning-to-open-the-arctic-refuge-to-oil-and-gas-drilling-2/,49,45,6,false,passed,reversing-land-management-planning-to-open-the-arctic-refuge-to-oil-and-gas-drilling-2,"[public_lands, wildlife]"
+2016,house,Pesticides Pollution,199,https://www.lcv.org/roll-call-vote/pesticides-pollution-4/,262,159,11,false,passed,pesticides-pollution-4,[clean_water]
+2021,senate,Striking Provisions to Help Farmers of Color,86,https://www.lcv.org/roll-call-vote/striking-provisions-to-help-farmers-of-color/,49,50,1,false,failed,striking-provisions-to-help-farmers-of-color,[agriculture]
+2000,house,Delaware River Dredging,338,https://www.lcv.org/roll-call-vote/delaware-river-dredging/,176,249,9,true,failed,delaware-river-dredging,[clean_water]
+1995,house,Dirty Water Act (2x Score),337,https://www.lcv.org/roll-call-vote/dirty-water-act-2x-score/,240,185,9,false,passed,dirty-water-act-2x-score,[clean_water]
+2014,house,Superfund Cleanup,10,https://www.lcv.org/roll-call-vote/superfund-cleanup/,225,188,19,false,passed,superfund-cleanup,[clean_water]
+2014,house,Assault on the Clean Water Rule,489,https://www.lcv.org/roll-call-vote/assault-on-the-clean-water-rule/,262,152,17,false,passed,assault-on-the-clean-water-rule,[clean_water]
+1992,senate,Grazing Fees,177,https://www.lcv.org/roll-call-vote/grazing-fees/,50,44,6,false,passed,grazing-fees,[public_lands]
+2005,senate,Arctic Wildlife Refuge,52,https://www.lcv.org/roll-call-vote/arctic-wildlife-refuge/,49,51,0,true,failed,arctic-wildlife-refuge,"[public_lands, wildlife]"
+2022,house,Protecting the Grand Canyon and Colorado’s Public Lands,345,https://www.lcv.org/roll-call-vote/protecting-the-grand-canyon-and-colorados-public-lands-3/,214,201,14,true,passed,protecting-the-grand-canyon-and-colorados-public-lands-3,[public_lands]
+2025,senate,Preventing Public Lands Sell Off,181,https://www.lcv.org/roll-call-vote/preventing-public-land-sell-off/,48,51,0,true,failed,preventing-public-land-sell-off,[public_lands]
+2018,senate,Farm Bill Conference Report,259,https://www.lcv.org/roll-call-vote/farm-bill-conference-report/,87,13,0,true,passed,farm-bill-conference-report,[clean_water]
+2013,senate,National Endowment for the Oceans,116,https://www.lcv.org/roll-call-vote/national-endowment-for-the-oceans/,67,32,1,true,passed,national-endowment-for-the-oceans,[public_lands]
+2003,house,Defense Environmental Exemptions,202,https://www.lcv.org/roll-call-vote/defense-environmental-exemptions/,224,200,10,false,passed,defense-environmental-exemptions,"[clean_water, public_lands, wildlife]"
+2021,house,Protecting People from PFAS,217,https://www.lcv.org/roll-call-vote/protecting-people-from-pfas/,241,183,4,true,passed,protecting-people-from-pfas,[clean_water]
+1993,house,Protecting Wildlife Habitat,334,https://www.lcv.org/roll-call-vote/protecting-wildlife-habitat/,174,242,17,false,failed,protecting-wildlife-habitat,"[wildlife, public_lands]"
+1993,house,Wastewater Cleanup,190,https://www.lcv.org/roll-call-vote/wastewater-cleanup/,175,242,14,false,failed,wastewater-cleanup,[clean_water]
+2012,house,Drinking Water Protections,514,https://www.lcv.org/roll-call-vote/drinking-water-protections/,188,231,12,true,failed,drinking-water-protections,[clean_water]
+2019,house,"Protecting Colorado&#8217;s Public Lands",609,https://www.lcv.org/roll-call-vote/protecting-colorados-public-lands-2/,227,182,19,true,passed,protecting-colorados-public-lands-2,[public_lands]
+2025,house,Raising Energy Costs and Providing Polluter Giveaways to Cut Taxes for Billionaires (2X Score),190,https://www.lcv.org/roll-call-vote/raising-energy-costs-and-providing-polluter-giveaways-to-cut-taxes-for-billionaires-final-passage/,218,214,0,false,passed,raising-energy-costs-and-providing-polluter-giveaways-to-cut-taxes-for-billionaires-final-passage,"[public_lands, clean_water]"
+2005,house,Border Construction Exemption,29,https://www.lcv.org/roll-call-vote/border-construction-exemption/,179,243,11,true,failed,border-construction-exemption,"[wildlife, public_lands]"
+1994,house,Development in Parks,362,https://www.lcv.org/roll-call-vote/development-in-parks/,148,269,17,false,failed,development-in-parks,[public_lands]
+2001,house,Hardrock Mining,182,https://www.lcv.org/roll-call-vote/hardrock-mining-3/,216,194,22,true,passed,hardrock-mining-3,[public_lands]
+2015,senate,Prioritizing Drilling on Public Lands,17,https://www.lcv.org/roll-call-vote/prioritizing-drilling-on-public-lands/,51,47,1,false,passed,prioritizing-drilling-on-public-lands,[public_lands]
+2003,house,Bison in Yellowstone,383,https://www.lcv.org/roll-call-vote/bison-in-yellowstone/,199,220,15,true,failed,bison-in-yellowstone,[wildlife]
+2000,senate,National Monuments,208,https://www.lcv.org/roll-call-vote/national-monuments-2/,49,50,1,false,failed,national-monuments-2,[public_lands]
+2002,house,Farm Conservation,100,https://www.lcv.org/roll-call-vote/farm-conservation/,265,158,11,true,passed,farm-conservation,[public_lands]
+2002,senate,Drinking Water Protection,43,https://www.lcv.org/roll-call-vote/drinking-water-protection/,78,21,1,false,passed,drinking-water-protection,[clean_water]
+2001,house,Arctic Drilling,317,https://www.lcv.org/roll-call-vote/arctic-drilling-6/,206,223,5,true,failed,arctic-drilling-6,"[wildlife, public_lands]"
+2002,senate,Factory Farms,15,https://www.lcv.org/roll-call-vote/factory-farms/,44,52,4,true,failed,factory-farms,[clean_water]
+2020,house,Protecting Wilderness Across the West,69,https://www.lcv.org/roll-call-vote/protecting-wilderness-across-the-west/,231,183,11,true,passed,protecting-wilderness-across-the-west,[public_lands]
+1998,senate,Transferring Public Lands to a Bombing Range,177,https://www.lcv.org/roll-call-vote/transferring-public-lands-to-a-bombing-range/,49,44,7,false,passed,transferring-public-lands-to-a-bombing-range,"[wildlife, public_lands]"
+2004,house,Tongass Protections,253,https://www.lcv.org/roll-call-vote/tongass-protections/,222,205,6,true,passed,tongass-protections,"[wildlife, public_lands]"
+1996,house,Logging Without Laws,262,https://www.lcv.org/roll-call-vote/logging-without-laws-2/,209,211,14,true,failed,logging-without-laws-2,[public_lands]
+2003,house,Forest Fire Policy,200,https://www.lcv.org/roll-call-vote/forest-fire-policy-3/,256,170,8,false,passed,forest-fire-policy-3,[public_lands]
+2017,house,Budget Resolution Paving the Way for Drilling in the Arctic Refuge,589,https://www.lcv.org/roll-call-vote/budget-resolution-paving-the-way-for-drilling-in-the-arctic-refuge-2/,216,212,5,false,passed,budget-resolution-paving-the-way-for-drilling-in-the-arctic-refuge-2,[public_lands]
+2005,senate,Farm Conservation Programs,290,https://www.lcv.org/roll-call-vote/farm-conservation-programs/,46,53,1,true,failed,farm-conservation-programs,[public_lands]
+1993,senate,Livestock Grazing on Public Lands,326,https://www.lcv.org/roll-call-vote/livestock-grazing-on-public-lands-2/,53,41,6,true,passed,livestock-grazing-on-public-lands-2,[public_lands]
+1995,house,Crippling the EPA I,605,https://www.lcv.org/roll-call-vote/crippling-the-epa-i/,210,210,14,true,passed,crippling-the-epa-i,[clean_water]
+2017,house,"Attack on Minnesota&#8217;s National Forests",643,https://www.lcv.org/roll-call-vote/attack-on-minnesotas-national-forests/,216,204,13,false,passed,attack-on-minnesotas-national-forests,[public_lands]
+2000,senate,Grazing,175,https://www.lcv.org/roll-call-vote/grazing/,38,62,0,true,failed,grazing,"[public_lands, clean_water, wildlife]"
+2001,house,Arctic Drilling,316,https://www.lcv.org/roll-call-vote/arctic-drilling-5/,228,201,5,false,passed,arctic-drilling-5,"[public_lands, wildlife]"
+2015,house,National Ocean Policy,398,https://www.lcv.org/roll-call-vote/national-ocean-policy-4/,191,238,4,true,failed,national-ocean-policy-4,[public_lands]
+2017,house,Blocking Wildlife Protections in Alaska (CRA),98,https://www.lcv.org/roll-call-vote/blocking-wildlife-protections-in-alaska-cra/,225,193,12,false,passed,blocking-wildlife-protections-in-alaska-cra,"[wildlife, public_lands]"
+1993,senate,Protecting Rivers and Fish,82,https://www.lcv.org/roll-call-vote/protecting-rivers-and-fish/,57,41,2,true,passed,protecting-rivers-and-fish,"[wildlife, clean_water, public_lands]"
+2025,house,Imperiling Endangered Species on Military Land,259,https://www.lcv.org/roll-call-vote/imperiling-endangered-species-on-military-land-2/,200,228,7,false,failed,imperiling-endangered-species-on-military-land-2,"[wildlife, public_lands]"
+2010,house,Upper Mississippi River Restoration,137,https://www.lcv.org/roll-call-vote/upper-mississippi-river-restoration/,289,121,20,true,passed,upper-mississippi-river-restoration,"[clean_water, wildlife]"
+1999,house,World Heritage Sites,383,https://www.lcv.org/roll-call-vote/world-heritage-sites/,217,209,7,false,passed,world-heritage-sites,[public_lands]
+2006,house,Clean Water,169,https://www.lcv.org/roll-call-vote/clean-water-2/,222,198,12,true,passed,clean-water-2,[clean_water]
+2000,house,Timber Sales Subsidies,277,https://www.lcv.org/roll-call-vote/timber-sales-subsidies-2/,173,249,12,true,failed,timber-sales-subsidies-2,"[public_lands, wildlife]"
+1998,house,Undermining Environmental Reporting and Information,74,https://www.lcv.org/roll-call-vote/undermining-environmental-reporting-and-information-3/,267,140,23,false,passed,undermining-environmental-reporting-and-information-3,[clean_water]
+1994,house,A New Biological Survey,260,https://www.lcv.org/roll-call-vote/a-new-biological-survey/,169,255,10,false,failed,a-new-biological-survey,"[public_lands, wildlife]"
+2008,house,"Arctic Refuge, Offshore, Western Drilling",321,https://www.lcv.org/roll-call-vote/arctic-refuge-offshore-western-drilling/,185,229,19,false,failed,arctic-refuge-offshore-western-drilling,"[public_lands, wildlife]"
+2003,senate,Arctic Drilling,59,https://www.lcv.org/roll-call-vote/arctic-drilling/,52,48,0,true,passed,arctic-drilling,"[wildlife, public_lands]"
+2009,house,Undermining Forest Management,161,https://www.lcv.org/roll-call-vote/undermining-forest-management/,148,267,16,false,failed,undermining-forest-management,"[wildlife, public_lands]"
+2024,house,Blocking the Delaware River Basin Fracking Ban,364,https://www.lcv.org/roll-call-vote/blocking-the-delaware-river-basin-fracking-ban/,195,210,19,false,failed,blocking-the-delaware-river-basin-fracking-ban,"[wildlife, clean_water]"
+1997,senate,Animas-La Plata Irrigation Project,177,https://www.lcv.org/roll-call-vote/animas-la-plata-irrigation-project/,56,42,2,false,passed,animas-la-plata-irrigation-project,"[clean_water, wildlife]"
+2003,senate,Yazoo Pumps Project,23,https://www.lcv.org/roll-call-vote/yazoo-pumps-project/,67,30,3,false,passed,yazoo-pumps-project,[clean_water]
+2007,house,"Farm Bill &#8212; Subsidy Reform",747,https://www.lcv.org/roll-call-vote/farm-bill-subsidy-reform-3/,116,306,10,true,failed,farm-bill-subsidy-reform-3,[public_lands]
+2001,senate,Klamath Endangered Species,232,https://www.lcv.org/roll-call-vote/klamath-endangered-species/,52,48,0,true,passed,klamath-endangered-species,"[clean_water, wildlife]"
+1993,house,"National Biological Survey and &#8220;Takings&#8221;",483,https://www.lcv.org/roll-call-vote/national-biological-survey-and-takings/,238,188,7,true,passed,national-biological-survey-and-takings,"[public_lands, wildlife]"
+1995,house,Closing National Parks,667,https://www.lcv.org/roll-call-vote/closing-national-parks/,180,231,23,false,failed,closing-national-parks,[public_lands]
+1997,house,Logging Roads Subsidies,262,https://www.lcv.org/roll-call-vote/logging-roads-subsidies-2/,211,209,14,false,passed,logging-roads-subsidies-2,"[public_lands, wildlife]"
+2013,house,Limiting Sandy Response Efforts,21,https://www.lcv.org/roll-call-vote/limiting-sandy-response-efforts/,223,198,11,false,passed,limiting-sandy-response-efforts,[public_lands]
+2003,senate,National Energy Policy (2x Score),456,https://www.lcv.org/roll-call-vote/national-energy-policy-2x-score/,57,40,3,false,passed,national-energy-policy-2x-score,"[public_lands, clean_water]"
+1999,house,Wildlife and Fisheries Management,293,https://www.lcv.org/roll-call-vote/wildlife-and-fisheries-management/,174,250,10,true,failed,wildlife-and-fisheries-management,[wildlife]
+2000,house,Clean Water,304,https://www.lcv.org/roll-call-vote/clean-water-3/,208,216,10,true,failed,clean-water-3,[clean_water]
+2007,senate,"Water Resources &#8212; Project Prioritization",165,https://www.lcv.org/roll-call-vote/water-resources-project-prioritization/,22,69,9,true,failed,water-resources-project-prioritization,[clean_water]
+2018,house,Undermining Environmental Review for Forestry Projects,198,https://www.lcv.org/roll-call-vote/undermining-environmental-review-for-forestry-projects-2/,224,191,12,false,passed,undermining-environmental-review-for-forestry-projects-2,[public_lands]
+2005,senate,Arctic Wildlife Refuge,364,https://www.lcv.org/roll-call-vote/arctic-wildlife-refuge-3/,56,44,0,false,passed,arctic-wildlife-refuge-3,"[public_lands, wildlife]"
+2012,senate,Genetically Engineered Salmon,106,https://www.lcv.org/roll-call-vote/genetically-engineered-salmon/,46,50,3,true,failed,genetically-engineered-salmon,"[public_lands, wildlife]"
+2009,senate,Polar Bear Protections and Global Warming,82,https://www.lcv.org/roll-call-vote/polar-bear-protections-and-global-warming/,42,52,4,false,failed,polar-bear-protections-and-global-warming,[wildlife]
+2013,house,Anti-Environmental Farm Bill,286,https://www.lcv.org/roll-call-vote/anti-environmental-farm-bill-2/,195,234,6,false,failed,anti-environmental-farm-bill-2,"[clean_water, public_lands, wildlife]"
+2026,house,Greenwashing Biomass Energy,144,https://www.lcv.org/roll-call-vote/greenwashing-biomass-energy/,210,216,9,false,failed,greenwashing-biomass-energy,[agriculture]
+2015,house,Forest Management,428,https://www.lcv.org/roll-call-vote/forest-management/,262,167,4,false,passed,forest-management,[public_lands]
+2013,house,Drilling in Bristol Bay,299,https://www.lcv.org/roll-call-vote/drilling-in-bristol-bay/,183,235,16,true,failed,drilling-in-bristol-bay,"[wildlife, public_lands]"
+2019,senate,Wheeler Confirmation (EPA Administrator),33,https://www.lcv.org/roll-call-vote/wheeler-confirmation-epa-administrator/,52,47,1,false,passed,wheeler-confirmation-epa-administrator,[clean_water]
+2012,senate,Conservation Compliance,155,https://www.lcv.org/roll-call-vote/conservation-compliance/,52,47,0,true,passed,conservation-compliance,"[public_lands, clean_water]"
+2018,senate,"Clark Confirmation (Assistant Attorney General, DOJ Environment and Natural Resources Division)",228,https://www.lcv.org/roll-call-vote/clark-confirmation-assistant-attorney-general-doj-environment-and-natural-resources-division/,52,45,3,false,passed,clark-confirmation-assistant-attorney-general-doj-environment-and-natural-resources-division,[clean_water]
+2011,house,Hard Rock Mining,809,https://www.lcv.org/roll-call-vote/hard-rock-mining/,235,186,11,false,passed,hard-rock-mining,[public_lands]
+2016,house,Arctic Ocean Drilling,461,https://www.lcv.org/roll-call-vote/arctic-ocean-drilling/,242,185,5,false,passed,arctic-ocean-drilling,[public_lands]
+2023,house,"Promoting Anti-Immigrant Policies &#038; Border Wall Funding",209,https://www.lcv.org/roll-call-vote/promoting-anti-immigrant-policies-border-wall-funding/,218,213,3,false,passed,promoting-anti-immigrant-policies-border-wall-funding,[public_lands]
+2025,house,Blocking the Delaware River Basin Fracking Ban,227,https://www.lcv.org/roll-call-vote/blocking-the-delaware-river-basin-fracking-ban-2/,195,235,5,false,failed,blocking-the-delaware-river-basin-fracking-ban-2,[clean_water]
+1991,house,Grazing Fees,194,https://www.lcv.org/roll-call-vote/grazing-fees-3/,232,192,8,true,passed,grazing-fees-3,[public_lands]
+2008,senate,Oil Shale,206,https://www.lcv.org/roll-call-vote/oil-shale/,52,42,6,true,passed,oil-shale,[public_lands]
+1993,house,Mining Law Reform,569,https://www.lcv.org/roll-call-vote/mining-law-reform/,197,229,7,true,failed,mining-law-reform,[public_lands]
+1998,senate,Selling Public Lands,79,https://www.lcv.org/roll-call-vote/selling-public-lands/,55,43,2,false,passed,selling-public-lands,[public_lands]
+2025,senate,Rolling Back Safeguards in the Glen Canyon Recreation Area,239,https://www.lcv.org/roll-call-vote/rolling-back-safeguards-in-the-glen-canyon-recreation-area-2/,50,43,6,false,passed,rolling-back-safeguards-in-the-glen-canyon-recreation-area-2,[public_lands]
+1995,house,"California Desert &#8212; Mojave Preserve",509,https://www.lcv.org/roll-call-vote/california-desert-mojave-preserve/,174,227,33,true,failed,california-desert-mojave-preserve,"[wildlife, public_lands]"
+1996,house,Anti-Environment Riders I,5,https://www.lcv.org/roll-call-vote/anti-environment-riders-i/,239,177,16,false,passed,anti-environment-riders-i,"[wildlife, public_lands]"
+2010,senate,Border Fence Construction,172,https://www.lcv.org/roll-call-vote/border-fence-construction/,45,52,3,false,failed,border-fence-construction,"[wildlife, public_lands]"
+2025,house,Reversing Land Management Planning to Open the Arctic Refuge to Oil and Gas Drilling,295,https://www.lcv.org/roll-call-vote/reversing-land-management-planning-to-open-the-arctic-refuge-to-oil-and-gas-drilling/,217,209,4,false,passed,reversing-land-management-planning-to-open-the-arctic-refuge-to-oil-and-gas-drilling,"[wildlife, public_lands]"
+2005,senate,Stormwater Cleanup,113,https://www.lcv.org/roll-call-vote/stormwater-cleanup/,51,49,0,true,passed,stormwater-cleanup,[clean_water]
+2019,house,Shark Finning Ban,634,https://www.lcv.org/roll-call-vote/shark-finning-ban/,310,107,10,true,passed,shark-finning-ban,"[public_lands, wildlife]"
+1989,house,Rainforest Protection,127,https://www.lcv.org/roll-call-vote/rainforest-protection/,144,269,18,false,failed,rainforest-protection,"[wildlife, public_lands]"
+2011,house,Sweeping Environmental Funding and Policy Assault,147,https://www.lcv.org/roll-call-vote/sweeping-environmental-funding-and-policy-assault-2/,235,189,8,false,passed,sweeping-environmental-funding-and-policy-assault-2,"[clean_water, wildlife]"
+2016,house,California Water Resources,436,https://www.lcv.org/roll-call-vote/california-water-resources-4/,181,248,3,true,failed,california-water-resources-4,"[clean_water, wildlife]"
+2019,house,Blocking the Disastrous Pebble Mine,363,https://www.lcv.org/roll-call-vote/blocking-the-disastrous-pebble-mine/,233,201,3,true,passed,blocking-the-disastrous-pebble-mine,"[wildlife, clean_water]"
+2021,house,"Transformative Climate, Jobs, and Justice Investments",385,https://www.lcv.org/roll-call-vote/transformative-climate-jobs-and-justice-investments/,220,213,1,true,passed,transformative-climate-jobs-and-justice-investments,"[clean_water, public_lands]"
+2021,senate,Investing in Water Infrastructure,178,https://www.lcv.org/roll-call-vote/investing-in-water-infrastructure/,89,2,6,true,passed,investing-in-water-infrastructure,[clean_water]
+1994,house,"California Desert &#8212; Hunting in Park",316,https://www.lcv.org/roll-call-vote/california-desert-hunting-in-park/,239,178,17,false,passed,california-desert-hunting-in-park,[public_lands]
+2000,house,Columbia Basin Land Management,279,https://www.lcv.org/roll-call-vote/columbia-basin-land-management/,206,221,7,false,failed,columbia-basin-land-management,"[public_lands, wildlife]"
+2004,house,National Energy Policy,241,https://www.lcv.org/roll-call-vote/national-energy-policy-2/,244,178,11,false,passed,national-energy-policy-2,"[public_lands, wildlife]"
+2019,house,Stopping Future Drilling in the Eastern Gulf of Mexico,521,https://www.lcv.org/roll-call-vote/stopping-future-drilling-in-the-eastern-gulf-of-mexico/,248,180,2,true,passed,stopping-future-drilling-in-the-eastern-gulf-of-mexico,[public_lands]
+2025,house,Reversing Land Management Planning &amp; Safeguards for Drilling in Alaska’s Western Arctic,296,https://www.lcv.org/roll-call-vote/reversing-land-management-planning-safeguards-for-drilling-in-alaskas-western-arctic-2/,216,209,5,false,passed,reversing-land-management-planning-safeguards-for-drilling-in-alaskas-western-arctic-2,"[public_lands, wildlife]"
+2026,house,Eliminating Environmental Review for Geothermal Drilling,137,https://www.lcv.org/roll-call-vote/eliminating-environmental-review-for-geothermal-drilling/,231,186,12,false,passed,eliminating-environmental-review-for-geothermal-drilling,"[public_lands, wildlife]"
+1990,senate,Endangered Species,303,https://www.lcv.org/roll-call-vote/endangered-species-3/,60,34,4,true,passed,endangered-species-3,[wildlife]
+2016,senate,Extreme Attack on Clean Water Protections (CRA),5,https://www.lcv.org/roll-call-vote/extreme-attack-on-clean-water-protections-cra-2/,52,40,8,false,passed,extreme-attack-on-clean-water-protections-cra-2,[clean_water]
+2007,house,Hardrock Mining,1033,https://www.lcv.org/roll-call-vote/hardrock-mining-2/,244,166,22,true,passed,hardrock-mining-2,[public_lands]
+1991,senate,Abuse of Federal Lands,195,https://www.lcv.org/roll-call-vote/abuse-of-federal-lands/,60,38,2,false,passed,abuse-of-federal-lands,[public_lands]
+2009,house,Chemical Security,875,https://www.lcv.org/roll-call-vote/chemical-security/,230,193,11,true,passed,chemical-security,[clean_water]
+2015,house,Endangered Species Protections,404,https://www.lcv.org/roll-call-vote/endangered-species-protections/,186,243,4,true,failed,endangered-species-protections,[wildlife]
+1989,senate,National Forests,146,https://www.lcv.org/roll-call-vote/national-forests-3/,55,44,1,true,passed,national-forests-3,[public_lands]
+1994,senate,"California Desert &#8212; Hunting in Parks",87,https://www.lcv.org/roll-call-vote/california-desert-hunting-in-parks/,35,62,3,false,failed,california-desert-hunting-in-parks,"[public_lands, wildlife]"
+1997,house,National Wildlife Refuges,424,https://www.lcv.org/roll-call-vote/national-wildlife-refuges/,419,1,13,true,passed,national-wildlife-refuges,"[public_lands, wildlife]"
+1998,house,Protecting Roadless Areas in Forests,79,https://www.lcv.org/roll-call-vote/protecting-roadless-areas-in-forests/,200,187,43,true,passed,protecting-roadless-areas-in-forests,"[public_lands, wildlife]"
+2011,house,Border Fence Environmental Mitigation,391,https://www.lcv.org/roll-call-vote/border-fence-environmental-mitigation/,238,177,16,false,passed,border-fence-environmental-mitigation,"[public_lands, wildlife]"
+2000,senate,Missouri River Water Control,232,https://www.lcv.org/roll-call-vote/missouri-river-water-control/,45,52,3,true,failed,missouri-river-water-control,"[wildlife, clean_water]"
+2004,house,Yellowstone Snowmobiles,263,https://www.lcv.org/roll-call-vote/yellowstone-snowmobiles/,198,224,11,true,failed,yellowstone-snowmobiles,"[public_lands, wildlife]"
+2012,house,Public Lands Assault,164,https://www.lcv.org/roll-call-vote/public-lands-assault/,274,146,11,false,passed,public-lands-assault,"[public_lands, wildlife]"
+2025,house,Undermining Preservation of Marine Cultural Heritage,61,https://www.lcv.org/roll-call-vote/undermining-preservation-of-marine-cultural-heritage-2/,221,202,5,false,passed,undermining-preservation-of-marine-cultural-heritage-2,[public_lands]
+2001,house,National Energy Policy,320,https://www.lcv.org/roll-call-vote/national-energy-policy-4/,240,189,5,false,passed,national-energy-policy-4,"[wildlife, clean_water, public_lands]"
+2003,house,Forest Management Plans,384,https://www.lcv.org/roll-call-vote/forest-management-plans/,198,222,14,true,failed,forest-management-plans,"[wildlife, public_lands]"
+2013,house,Methane Emissions,601,https://www.lcv.org/roll-call-vote/methane-emissions/,190,230,10,true,failed,methane-emissions,[public_lands]
+2023,house,Anti-Environment Spending Package,597,https://www.lcv.org/roll-call-vote/anti-environment-spending-package-2/,212,203,10,false,passed,anti-environment-spending-package-2,[clean_water]
+2007,house,Mexican Wolf Recovery,558,https://www.lcv.org/roll-call-vote/mexican-wolf-recovery/,171,254,7,false,failed,mexican-wolf-recovery,[wildlife]
+2011,house,Clean Water Protections,540,https://www.lcv.org/roll-call-vote/clean-water-protections/,170,250,10,true,failed,clean-water-protections,[clean_water]
+2014,senate,Environmental Review in Transportation Rebuilding,247,https://www.lcv.org/roll-call-vote/environmental-review-in-transportation-rebuilding-2/,47,50,3,false,failed,environmental-review-in-transportation-rebuilding-2,[clean_water]
+2007,senate,Eminent Domain,429,https://www.lcv.org/roll-call-vote/eminent-domain/,37,58,5,false,failed,eminent-domain,[public_lands]
+2015,house,National Monuments,409,https://www.lcv.org/roll-call-vote/national-monuments-6/,222,206,5,false,passed,national-monuments-6,[public_lands]
+1995,senate,Red Wolf Recovery,376,https://www.lcv.org/roll-call-vote/red-wolf-recovery/,50,48,2,true,passed,red-wolf-recovery,[wildlife]
+2000,senate,Hardrock Mining,224,https://www.lcv.org/roll-call-vote/hardrock-mining-4/,36,56,7,true,failed,hardrock-mining-4,[public_lands]
+2003,senate,Forest Fire Policy,428,https://www.lcv.org/roll-call-vote/forest-fire-policy/,80,14,6,false,passed,forest-fire-policy,[public_lands]
+2015,senate,Undermining Critical Habitat for Wildlife,128,https://www.lcv.org/roll-call-vote/undermining-critical-habitat-for-wildlife/,52,42,6,false,passed,undermining-critical-habitat-for-wildlife,[wildlife]
+2010,house,Estuary Protection,209,https://www.lcv.org/roll-call-vote/estuary-protection/,278,128,24,true,passed,estuary-protection,"[clean_water, public_lands]"
+1989,house,Wilderness Designation,351,https://www.lcv.org/roll-call-vote/wilderness-designation/,126,283,23,false,failed,wilderness-designation,"[wildlife, public_lands]"
+2013,house,McKinney National Wildlife Refuge,19,https://www.lcv.org/roll-call-vote/mckinney-national-wildlife-refuge/,216,205,11,false,passed,mckinney-national-wildlife-refuge,[wildlife]
+2023,senate,Rescinding Protections for the Lesser Prairie-Chicken,110,https://www.lcv.org/roll-call-vote/rescinding-protections-for-the-lesser-prairie-chicken/,50,48,1,false,passed,rescinding-protections-for-the-lesser-prairie-chicken,[wildlife]
+1989,house,Wilderness Water Rights,354,https://www.lcv.org/roll-call-vote/wilderness-water-rights/,118,285,29,false,failed,wilderness-water-rights,"[public_lands, clean_water, wildlife]"
+1996,senate,Livestock and Environmental Standards,15,https://www.lcv.org/roll-call-vote/livestock-and-environmental-standards/,57,39,4,true,passed,livestock-and-environmental-standards,"[public_lands, clean_water]"
+1997,senate,Logging Roads Subsidies,242,https://www.lcv.org/roll-call-vote/logging-roads-subsidies/,49,51,0,true,failed,logging-roads-subsidies,"[public_lands, wildlife]"
+2002,house,Farm Conservation,122,https://www.lcv.org/roll-call-vote/farm-conservation-2/,172,251,11,true,failed,farm-conservation-2,[public_lands]
+2017,senate,Budget Resolution Paving the Way for Drilling in the Arctic Refuge,245,https://www.lcv.org/roll-call-vote/budget-resolution-paving-the-way-for-drilling-in-the-arctic-refuge/,51,49,0,false,passed,budget-resolution-paving-the-way-for-drilling-in-the-arctic-refuge,[public_lands]
+2019,house,Restoring Protections for the Arctic Refuge,530,https://www.lcv.org/roll-call-vote/restoring-protections-for-the-arctic-refuge-2/,225,193,11,true,passed,restoring-protections-for-the-arctic-refuge-2,[public_lands]
+2019,senate,Bernhardt Confirmation (Interior Secretary),77,https://www.lcv.org/roll-call-vote/bernhardt-confirmation-interior-secretary-2/,56,41,3,false,passed,bernhardt-confirmation-interior-secretary-2,"[wildlife, public_lands]"
+2012,house,Hardrock Mining,468,https://www.lcv.org/roll-call-vote/hardrock-mining-5/,256,160,15,false,passed,hardrock-mining-5,[public_lands]
+2012,house,Clean Water Safeguards,597,https://www.lcv.org/roll-call-vote/clean-water-safeguards-2/,247,163,19,false,passed,clean-water-safeguards-2,"[wildlife, clean_water]"
+1990,house,Environmentally Damaging Water Subsidies,169,https://www.lcv.org/roll-call-vote/environmentally-damaging-water-subsidies/,118,297,17,false,failed,environmentally-damaging-water-subsidies,[clean_water]
+1996,house,Pork Barrel Water Project,354,https://www.lcv.org/roll-call-vote/pork-barrel-water-project-2/,221,200,12,true,passed,pork-barrel-water-project-2,"[clean_water, wildlife]"
+1997,senate,American Heritage Rivers,247,https://www.lcv.org/roll-call-vote/american-heritage-rivers/,57,42,1,true,passed,american-heritage-rivers,"[clean_water, public_lands]"
+2003,house,Energy Plan,145,https://www.lcv.org/roll-call-vote/energy-plan/,247,175,13,false,passed,energy-plan,"[clean_water, public_lands, wildlife]"
+2003,senate,National Energy Policy,456,https://www.lcv.org/roll-call-vote/national-energy-policy-3/,57,40,3,false,passed,national-energy-policy-3,"[clean_water, public_lands]"
+2025,house,Opening Public Lands to Polluting Mining Companies,358,https://www.lcv.org/roll-call-vote/opening-public-lands-to-polluting-mining-companies/,219,198,13,false,passed,opening-public-lands-to-polluting-mining-companies,"[clean_water, public_lands]"
+1998,house,Logging in National Forests,80,https://www.lcv.org/roll-call-vote/logging-in-national-forests/,181,201,48,false,failed,logging-in-national-forests,"[public_lands, wildlife]"
+2003,house,Anti-Environmental Riders,31,https://www.lcv.org/roll-call-vote/anti-environmental-riders/,193,226,16,true,failed,anti-environmental-riders,"[public_lands, wildlife]"
+2012,house,"&#8220;Oil Above All&#8221; Energy Strategy",410,https://www.lcv.org/roll-call-vote/oil-above-all-energy-strategy/,248,163,21,false,passed,oil-above-all-energy-strategy,[public_lands]
+1993,house,"National Biological Survey and &#8220;Takings&#8221;",484,https://www.lcv.org/roll-call-vote/national-biological-survey-and-takings-2/,217,209,7,false,passed,national-biological-survey-and-takings-2,"[wildlife, public_lands]"
+2021,senate,Build Back Better Budget Resolution,357,https://www.lcv.org/roll-call-vote/build-back-better-budget-resolution-2/,50,49,0,true,passed,build-back-better-budget-resolution-2,[public_lands]
+2012,house,"St. Croix Wild &#038; Scenic River",93,https://www.lcv.org/roll-call-vote/st-croix-wild-scenic-river/,339,80,13,false,passed,st-croix-wild-scenic-river,"[clean_water, public_lands]"
+2000,house,Wild Predator Control,382,https://www.lcv.org/roll-call-vote/wild-predator-control/,190,228,16,true,failed,wild-predator-control,[wildlife]
+2016,house,"Disaster Funding for Flint, Michigan",570,https://www.lcv.org/roll-call-vote/disaster-funding-for-flint-michigan/,284,142,5,true,passed,disaster-funding-for-flint-michigan,[clean_water]
+2021,house,"Transformative Climate, Jobs, and Justice Investments (2x Score)",385,https://www.lcv.org/roll-call-vote/transformative-climate-jobs-and-justice-investments-2x-score/,220,213,1,true,passed,transformative-climate-jobs-and-justice-investments-2x-score,"[clean_water, public_lands]"
+2018,house,Attack on Ironwood Forest National Monument,355,https://www.lcv.org/roll-call-vote/attack-on-ironwood-forest-national-monument-2/,193,220,14,false,failed,attack-on-ironwood-forest-national-monument-2,[wildlife]
+2020,senate,MacGregor Confirmation (Interior Deputy Secretary),60,https://www.lcv.org/roll-call-vote/macgregor-confirmation-interior-deputy-secretary/,58,38,4,false,passed,macgregor-confirmation-interior-deputy-secretary,"[wildlife, public_lands]"
+2026,house,Removing Money-Saving Water Efficiency Standards,23,https://www.lcv.org/roll-call-vote/removing-money-saving-water-efficiency-standards/,226,197,8,false,passed,removing-money-saving-water-efficiency-standards,[clean_water]
+2014,house,Assault on Clean Energy and Clean Water,402,https://www.lcv.org/roll-call-vote/assault-on-clean-energy-and-clean-water-2/,253,170,9,false,passed,assault-on-clean-energy-and-clean-water-2,[clean_water]
+2015,senate,Fracking Drinking Water Loophole,41,https://www.lcv.org/roll-call-vote/fracking-drinking-water-loophole/,35,63,1,true,failed,fracking-drinking-water-loophole,[clean_water]
+2023,house,Undermining Federal Agency Authority,271,https://www.lcv.org/roll-call-vote/undermining-federal-agency-authority/,220,211,2,false,passed,undermining-federal-agency-authority,[clean_water]
+2025,house,Removing Public Lands Protections on Culturally and Ecologically Significant Landscapes,225,https://www.lcv.org/roll-call-vote/removing-public-lands-protections-on-culturally-and-ecologically-significant-landscapes/,215,210,5,false,passed,removing-public-lands-protections-on-culturally-and-ecologically-significant-landscapes,[public_lands]
+1997,house,Limiting National Monuments,495,https://www.lcv.org/roll-call-vote/limiting-national-monuments/,229,197,7,false,passed,limiting-national-monuments,[public_lands]
+2025,house,Rolling Back Safeguards in the Glen Canyon Recreation Area,110,https://www.lcv.org/roll-call-vote/rolling-back-safeguards-in-the-glen-canyon-recreation-area/,219,205,4,false,passed,rolling-back-safeguards-in-the-glen-canyon-recreation-area,[public_lands]
+2015,house,Attack On Clean Water Protections,212,https://www.lcv.org/roll-call-vote/attack-on-clean-water-protections/,239,174,18,false,passed,attack-on-clean-water-protections,[clean_water]
+2005,house,Public Lands Sell-Off,601,https://www.lcv.org/roll-call-vote/public-lands-sell-off/,217,215,2,false,passed,public-lands-sell-off,[public_lands]
+2013,house,Hardrock Mining,471,https://www.lcv.org/roll-call-vote/hardrock-mining-6/,246,178,8,false,passed,hardrock-mining-6,[public_lands]
+2026,house,Codifying Trump’s Pro-Extraction Mining Executive Orders,55,https://www.lcv.org/roll-call-vote/codifying-trumps-pro-extraction-mining-executive-orders/,224,195,13,false,passed,codifying-trumps-pro-extraction-mining-executive-orders,[public_lands]
+2018,senate,Exposing Waterways to Invasive Species,77,https://www.lcv.org/roll-call-vote/exposing-waterways-to-invasive-species-2/,56,42,1,false,passed,exposing-waterways-to-invasive-species-2,"[clean_water, wildlife]"
+1995,senate,Drilling I,190,https://www.lcv.org/roll-call-vote/drilling-i/,56,44,0,false,passed,drilling-i,"[wildlife, public_lands]"
+1999,senate,Commercial Fishing in Glacier Bay,56,https://www.lcv.org/roll-call-vote/commercial-fishing-in-glacier-bay/,40,59,1,true,failed,commercial-fishing-in-glacier-bay,"[wildlife, public_lands]"
+2016,senate,Fast Tracking Natural Gas Pipelines,12,https://www.lcv.org/roll-call-vote/fast-tracking-natural-gas-pipelines/,52,43,5,false,passed,fast-tracking-natural-gas-pipelines,[public_lands]
+1994,senate,"Drinking Water &#8212; Drowning in Paperwork",117,https://www.lcv.org/roll-call-vote/drinking-water-drowning-in-paperwork/,90,8,2,false,passed,drinking-water-drowning-in-paperwork,[clean_water]
+1994,house,"California Desert &#8212; Motor Vehicle Use",233,https://www.lcv.org/roll-call-vote/california-desert-motor-vehicle-use/,178,189,67,true,failed,california-desert-motor-vehicle-use,"[wildlife, public_lands]"
+2025,senate,Blocking Critical Safeguards,85,https://www.lcv.org/roll-call-vote/blocking-critical-safeguards-2/,53,47,0,false,passed,blocking-critical-safeguards-2,[clean_water]
+1996,house,Anti-Environment Riders II,55,https://www.lcv.org/roll-call-vote/anti-environment-riders-ii/,209,206,17,false,passed,anti-environment-riders-ii,"[public_lands, wildlife]"
+1992,senate,Ancient Forests and Endangered Species,176,https://www.lcv.org/roll-call-vote/ancient-forests-and-endangered-species/,60,35,5,true,passed,ancient-forests-and-endangered-species,"[wildlife, public_lands]"
+2007,house,Grasslands Protection,754,https://www.lcv.org/roll-call-vote/grasslands-protection/,173,249,10,true,failed,grasslands-protection,"[wildlife, public_lands]"
+2007,house,Tongass Logging Roads,563,https://www.lcv.org/roll-call-vote/tongass-logging-roads/,279,144,9,true,passed,tongass-logging-roads,"[wildlife, public_lands]"
+1988,house,Water Projects II,616,https://www.lcv.org/roll-call-vote/water-projects-ii/,161,243,27,true,failed,water-projects-ii,[clean_water]
+2010,house,Water Education,142,https://www.lcv.org/roll-call-vote/water-education/,244,170,16,true,passed,water-education,[clean_water]
+2015,senate,Gutting Clean Water Protections,295,https://www.lcv.org/roll-call-vote/gutting-clean-water-protections/,57,41,2,false,passed,gutting-clean-water-protections,[clean_water]
+2008,senate,Wind Insurance,117,https://www.lcv.org/roll-call-vote/wind-insurance/,19,74,7,false,failed,wind-insurance,[public_lands]
+1997,house,Animas-La Plata Irrigation Project,328,https://www.lcv.org/roll-call-vote/animas-la-plata-irrigation-project-2/,223,201,10,false,passed,animas-la-plata-irrigation-project-2,"[clean_water, wildlife]"
+2024,house,Stifling Public Input and Environmental Review on National Forests,448,https://www.lcv.org/roll-call-vote/stifling-public-input-and-environmental-review-on-national-forests/,268,151,8,false,passed,stifling-public-input-and-environmental-review-on-national-forests,"[public_lands, wildlife]"
+2000,senate,Drilling in the Arctic,58,https://www.lcv.org/roll-call-vote/drilling-in-the-arctic/,51,49,0,false,passed,drilling-in-the-arctic,"[wildlife, public_lands]"
+2022,house,Recovering America’s Wildlife,267,https://www.lcv.org/roll-call-vote/recovering-americas-wildlife-2/,231,190,5,true,passed,recovering-americas-wildlife-2,"[wildlife, public_lands]"
+1998,house,Removing Anti-Environment EPA Riders,334,https://www.lcv.org/roll-call-vote/removing-anti-environment-epa-riders/,176,243,16,true,failed,removing-anti-environment-epa-riders,[clean_water]
+2009,senate,Land and Water Conservation Fund,297,https://www.lcv.org/roll-call-vote/land-and-water-conservation-fund-2/,79,19,1,true,passed,land-and-water-conservation-fund-2,"[public_lands, clean_water]"
+2016,house,Mining Waste,42,https://www.lcv.org/roll-call-vote/mining-waste-2/,235,188,10,false,passed,mining-waste-2,[clean_water]
+1999,house,Undermining Environmental Reporting and Information,20,https://www.lcv.org/roll-call-vote/undermining-environmental-reporting-and-information-2/,274,151,8,false,passed,undermining-environmental-reporting-and-information-2,[clean_water]
+2017,house,Undermining Environmental Review on Water Projects,319,https://www.lcv.org/roll-call-vote/undermining-environmental-review-on-water-projects/,233,180,17,false,passed,undermining-environmental-review-on-water-projects,"[clean_water, public_lands]"
+2003,senate,Tongass Judicial Review,359,https://www.lcv.org/roll-call-vote/tongass-judicial-review/,52,44,4,false,passed,tongass-judicial-review,[public_lands]
+2020,house,Protecting the Grand Canyon and Colorado’s public lands,147,https://www.lcv.org/roll-call-vote/protecting-the-grand-canyon-and-colorados-public-lands/,234,181,14,true,passed,protecting-the-grand-canyon-and-colorados-public-lands,[public_lands]
+2024,house,Funding the Harmful Border Wall,333,https://www.lcv.org/roll-call-vote/funding-the-harmful-border-wall/,212,203,11,false,passed,funding-the-harmful-border-wall,"[wildlife, public_lands]"
+2019,house,"Eliminating EPA&#8217;s Chemical Hazard Assessment Program, IRIS",390,https://www.lcv.org/roll-call-vote/eliminating-epas-chemical-hazard-assessment-program-iris-2/,157,275,4,false,failed,eliminating-epas-chemical-hazard-assessment-program-iris-2,[clean_water]
+2008,house,National Landscape Conservation System,174,https://www.lcv.org/roll-call-vote/national-landscape-conservation-system/,278,140,12,true,passed,national-landscape-conservation-system,[public_lands]
+1995,house,Crippling the EPA II,762,https://www.lcv.org/roll-call-vote/crippling-the-epa-ii/,227,194,11,true,passed,crippling-the-epa-ii,[clean_water]
+2022,house,Attacking Environmental Programs and Funding Priorities,371,https://www.lcv.org/roll-call-vote/attacking-environmental-programs-and-funding-priorities/,197,230,8,false,failed,attacking-environmental-programs-and-funding-priorities,[clean_water]
+2010,house,Algal Bloom Reduction,109,https://www.lcv.org/roll-call-vote/algal-bloom-reduction/,251,103,76,true,passed,algal-bloom-reduction,[public_lands]
+2016,house,Marine National Monuments,462,https://www.lcv.org/roll-call-vote/marine-national-monuments/,225,202,5,false,passed,marine-national-monuments,[public_lands]
+2005,house,Endangered Species,506,https://www.lcv.org/roll-call-vote/endangered-species/,229,193,11,false,passed,endangered-species,[wildlife]
+1997,senate,Subsidy for Hard Rock Mining Companies,131,https://www.lcv.org/roll-call-vote/subsidy-for-hard-rock-mining-companies/,36,63,1,true,failed,subsidy-for-hard-rock-mining-companies,[public_lands]
+2013,house,Assault on Clean Energy and Clean Water,345,https://www.lcv.org/roll-call-vote/assault-on-clean-energy-and-clean-water/,227,198,9,false,passed,assault-on-clean-energy-and-clean-water,[clean_water]
+2020,house,Great Lakes Restoration Initiative,36,https://www.lcv.org/roll-call-vote/great-lakes-restoration-initiative/,373,45,9,true,passed,great-lakes-restoration-initiative,[clean_water]
+2023,house,Attacking Clean Energy and Water Programs,558,https://www.lcv.org/roll-call-vote/attacking-clean-energy-and-water-programs/,209,199,20,false,passed,attacking-clean-energy-and-water-programs,[clean_water]
+2003,senate,Defense ESA Exemptions,190,https://www.lcv.org/roll-call-vote/defense-esa-exemptions/,51,48,1,true,passed,defense-esa-exemptions,"[public_lands, wildlife]"
+2005,house,Oil Refineries,115,https://www.lcv.org/roll-call-vote/oil-refineries-3/,182,248,4,true,failed,oil-refineries-3,[public_lands]
+2018,house,Undermining Protections for the Chesapeake Bay,351,https://www.lcv.org/roll-call-vote/undermining-protections-for-the-chesapeake-bay-3/,213,202,12,false,passed,undermining-protections-for-the-chesapeake-bay-3,"[public_lands, clean_water]"
+2002,senate,Arctic Drilling (2x Score),71,https://www.lcv.org/roll-call-vote/arctic-drilling-2x-score/,46,54,0,false,failed,arctic-drilling-2x-score,"[wildlife, public_lands]"
+2003,house,Clean Water Act Exemptions,618,https://www.lcv.org/roll-call-vote/clean-water-act-exemptions/,188,210,36,true,failed,clean-water-act-exemptions,[clean_water]
+2020,house,Investing in Climate-Ambitious Infrastructure,138,https://www.lcv.org/roll-call-vote/investing-in-climate-ambitious-infrastructure/,233,188,10,true,passed,investing-in-climate-ambitious-infrastructure,[clean_water]
+2003,house,Klamath Wildlife Refuge Farming Leases,380,https://www.lcv.org/roll-call-vote/klamath-wildlife-refuge-farming-leases/,197,228,9,true,failed,klamath-wildlife-refuge-farming-leases,"[clean_water, public_lands, wildlife]"
+1999,senate,Forest Service Fish and Wildlife Programs,272,https://www.lcv.org/roll-call-vote/forest-service-fish-and-wildlife-programs/,54,43,3,false,passed,forest-service-fish-and-wildlife-programs,"[public_lands, wildlife]"
+2014,house,Big Polluter Giveaway,515,https://www.lcv.org/roll-call-vote/big-polluter-giveaway/,226,191,14,false,passed,big-polluter-giveaway,[public_lands]
+2016,house,Federal Control Over Federal Waters,94,https://www.lcv.org/roll-call-vote/federal-control-over-federal-waters/,169,236,28,true,failed,federal-control-over-federal-waters,[public_lands]
+2002,house,Defense Environmental Exemptions,136,https://www.lcv.org/roll-call-vote/defense-environmental-exemptions-2/,216,200,18,false,passed,defense-environmental-exemptions-2,"[wildlife, public_lands, clean_water]"
+2009,house,Clean Water Funding,123,https://www.lcv.org/roll-call-vote/clean-water-funding/,317,101,13,true,passed,clean-water-funding,[clean_water]
+2017,senate,Extreme Assault on the Methane and Waste Prevention Rule (CRA),125,https://www.lcv.org/roll-call-vote/extreme-assault-on-the-methane-and-waste-prevention-rule-cra-2/,49,51,0,false,failed,extreme-assault-on-the-methane-and-waste-prevention-rule-cra-2,[public_lands]
+2013,house,Keystone XL Tar Sands Pipeline (KXL),179,https://www.lcv.org/roll-call-vote/keystone-xl-tar-sands-pipeline-kxl-3/,241,175,17,false,passed,keystone-xl-tar-sands-pipeline-kxl-3,[clean_water]
+2021,house,Removing Confederate Statues from the U.S. Capitol,196,https://www.lcv.org/roll-call-vote/removing-confederate-statues-from-the-u-s-capitol-2/,285,120,23,true,passed,removing-confederate-statues-from-the-u-s-capitol-2,[public_lands]
+2021,senate,Raimondo Confirmation (Commerce Secretary),70,https://www.lcv.org/roll-call-vote/raimondo-confirmation-commerce-secretary/,84,15,1,true,passed,raimondo-confirmation-commerce-secretary,[public_lands]
+2009,house,Rare Cat and Dog Conservation,194,https://www.lcv.org/roll-call-vote/rare-cat-and-dog-conservation/,290,118,24,true,passed,rare-cat-and-dog-conservation,[wildlife]
+1991,house,Tallgrass Prairie National Monument,306,https://www.lcv.org/roll-call-vote/tallgrass-prairie-national-monument/,284,121,28,true,passed,tallgrass-prairie-national-monument,[public_lands]
+2015,senate,Extreme Assault on Clean Water Rule (CRA),297,https://www.lcv.org/roll-call-vote/extreme-assault-on-clean-water-rule-cra/,53,44,3,false,passed,extreme-assault-on-clean-water-rule-cra,[clean_water]
+1999,house,Interior Appropriations Riders,473,https://www.lcv.org/roll-call-vote/interior-appropriations-riders/,218,199,16,true,passed,interior-appropriations-riders,[public_lands]
+2018,house,Anti-Environmental Farm Bill,284,https://www.lcv.org/roll-call-vote/anti-environmental-farm-bill-4/,213,211,4,false,passed,anti-environmental-farm-bill-4,"[public_lands, clean_water, wildlife]"
+2017,house,Transferring Public Lands to Private Owners,491,https://www.lcv.org/roll-call-vote/transferring-public-lands-to-private-owners/,198,212,22,true,failed,transferring-public-lands-to-private-owners,[public_lands]
+2023,senate,Torres Small Confirmation (Deputy Secretary of Agriculture),174,https://www.lcv.org/roll-call-vote/torres-small-confirmation-deputy-secretary-of-agriculture/,84,8,8,true,passed,torres-small-confirmation-deputy-secretary-of-agriculture,"[public_lands, agriculture]"
+2013,senate,Border Fence,151,https://www.lcv.org/roll-call-vote/border-fence/,39,54,7,false,failed,border-fence,"[wildlife, clean_water, public_lands]"
+1990,senate,National Forests,59,https://www.lcv.org/roll-call-vote/national-forests/,81,17,1,true,passed,national-forests,[public_lands]
+2024,house,Stymieing Public Lands Conservation,165,https://www.lcv.org/roll-call-vote/stymieing-public-lands-conservation/,212,202,9,false,passed,stymieing-public-lands-conservation,[public_lands]
+2014,house,Attack on the Endangered Species Act (ESA),463,https://www.lcv.org/roll-call-vote/attack-on-the-endangered-species-act-esa/,233,190,9,false,passed,attack-on-the-endangered-species-act-esa,[wildlife]
+2015,house,Undermining Clean Water Protections,219,https://www.lcv.org/roll-call-vote/undermining-clean-water-protections/,261,155,16,false,passed,undermining-clean-water-protections,[clean_water]
+2024,house,Rolling Back Clean Water Safeguards,101,https://www.lcv.org/roll-call-vote/rolling-back-clean-water-safeguards/,213,205,9,false,passed,rolling-back-clean-water-safeguards,[clean_water]
+2013,house,Flood Insurance Reform,203,https://www.lcv.org/roll-call-vote/flood-insurance-reform-3/,281,146,7,false,passed,flood-insurance-reform-3,"[clean_water, public_lands]"
+2012,house,National Ocean Policy,234,https://www.lcv.org/roll-call-vote/national-ocean-policy/,246,174,11,false,passed,national-ocean-policy,[public_lands]
+2018,house,Attack on Alaska’s National Forests,199,https://www.lcv.org/roll-call-vote/attack-on-alaskas-national-forests-2/,208,207,12,false,passed,attack-on-alaskas-national-forests-2,[public_lands]
+2021,senate,Fox Confirmation (EPA Assistant Administrator),236,https://www.lcv.org/roll-call-vote/fox-confirmation-epa-assistant-administrator/,55,43,0,true,passed,fox-confirmation-epa-assistant-administrator,[clean_water]
+2021,senate,Stone-Manning Confirmation (BLM Director),401,https://www.lcv.org/roll-call-vote/stone-manning-confirmation-blm-director/,50,45,5,true,passed,stone-manning-confirmation-blm-director,[public_lands]
+2023,house,Default on America Act,199,https://www.lcv.org/roll-call-vote/default-on-america-act-2/,216,215,1,false,passed,default-on-america-act-2,[public_lands]
+2025,senate,Reinstating Fired Federal Land Managers,68,https://www.lcv.org/roll-call-vote/reinstating-fired-federal-land-managers/,48,52,0,true,failed,reinstating-fired-federal-land-managers,[public_lands]
+2016,house,Attack on the Endangered Species Act,449,https://www.lcv.org/roll-call-vote/attack-on-the-endangered-species-act/,238,190,4,false,passed,attack-on-the-endangered-species-act,[wildlife]
+2015,house,"Prairie Chicken &#038; Burying Beetle Protections",236,https://www.lcv.org/roll-call-vote/prairie-chicken-burying-beetle-protections/,229,190,13,false,passed,prairie-chicken-burying-beetle-protections,[wildlife]
+1998,house,Alaska Wildlife Area Road,328,https://www.lcv.org/roll-call-vote/alaska-wildlife-area-road/,176,249,9,true,failed,alaska-wildlife-area-road,"[public_lands, wildlife]"
+2021,senate,Haaland Confirmation (Interior Secretary),119,https://www.lcv.org/roll-call-vote/haaland-confirmation-interior-secretary/,51,40,4,true,passed,haaland-confirmation-interior-secretary,[public_lands]
+2008,house,Public Lands Protection,226,https://www.lcv.org/roll-call-vote/public-lands-protection-4/,291,117,23,true,passed,public-lands-protection-4,"[wildlife, clean_water, public_lands]"
+1995,senate,Selling Public Lands,183,https://www.lcv.org/roll-call-vote/selling-public-lands-2/,52,47,1,false,passed,selling-public-lands-2,[public_lands]
+2020,senate,Defeating Effort to Derail the Great American Outdoors Act,118,https://www.lcv.org/roll-call-vote/defeating-effort-to-derail-the-great-american-outdoors-act/,68,30,2,true,passed,defeating-effort-to-derail-the-great-american-outdoors-act,[public_lands]
+2020,senate,Great American Outdoors Act,121,https://www.lcv.org/roll-call-vote/great-american-outdoors-act/,73,25,1,true,passed,great-american-outdoors-act,[public_lands]
+2002,senate,Water Conservation,24,https://www.lcv.org/roll-call-vote/water-conservation/,55,45,0,true,passed,water-conservation,"[wildlife, clean_water]"
+2015,house,Assault on Clean Energy and Clean Water,215,https://www.lcv.org/roll-call-vote/assault-on-clean-energy-and-clean-water-3/,240,177,14,false,passed,assault-on-clean-energy-and-clean-water-3,[clean_water]
+2010,house,Ocean Acidification Prevention,341,https://www.lcv.org/roll-call-vote/ocean-acidification-prevention/,241,170,20,true,passed,ocean-acidification-prevention,[public_lands]
+2015,house,Fisheries Management,267,https://www.lcv.org/roll-call-vote/fisheries-management/,225,152,55,false,passed,fisheries-management,[public_lands]
+2014,house,Broad Attack on Lands and Wildlife,54,https://www.lcv.org/roll-call-vote/broad-attack-on-lands-and-wildlife/,220,194,17,false,passed,broad-attack-on-lands-and-wildlife,"[wildlife, public_lands]"
+2011,house,Clean Water Safeguards,135,https://www.lcv.org/roll-call-vote/clean-water-safeguards/,240,182,10,false,passed,clean-water-safeguards,[clean_water]
+1993,senate,Livestock Grazing on Public Lands,340,https://www.lcv.org/roll-call-vote/livestock-grazing-on-public-lands-3/,54,44,2,true,passed,livestock-grazing-on-public-lands-3,[public_lands]
+1994,house,"Montana Wilderness &#8212; Subsidized Roads",173,https://www.lcv.org/roll-call-vote/montana-wilderness-subsidized-roads/,141,279,13,true,failed,montana-wilderness-subsidized-roads,"[public_lands, wildlife]"
+2021,senate,Eliminating Safeguards on Fossil Fuel Production,320,https://www.lcv.org/roll-call-vote/eliminating-safeguards-on-fossil-fuel-production/,49,50,0,false,failed,eliminating-safeguards-on-fossil-fuel-production,[public_lands]
+2016,senate,Water Conservation Program,62,https://www.lcv.org/roll-call-vote/water-conservation-program/,73,23,4,true,passed,water-conservation-program,[clean_water]
+2003,house,Forest Fire Policy,198,https://www.lcv.org/roll-call-vote/forest-fire-policy-2/,184,239,11,true,failed,forest-fire-policy-2,[public_lands]
+2026,house,Expanding Production of Critical Minerals and Fossil Fuels,64,https://www.lcv.org/roll-call-vote/expanding-production-of-critical-minerals-and-fossil-fuels/,223,206,3,false,passed,expanding-production-of-critical-minerals-and-fossil-fuels,[public_lands]
+2005,house,Water Projects,377,https://www.lcv.org/roll-call-vote/water-projects/,105,315,13,true,failed,water-projects,[clean_water]
+2017,house,Undermining Protections for the Chesapeake Bay,479,https://www.lcv.org/roll-call-vote/undermining-protections-for-the-chesapeake-bay/,214,197,21,false,passed,undermining-protections-for-the-chesapeake-bay,[clean_water]
+2024,house,Short Circuiting Environmental Review and Public Input for Computer Chip Factories,440,https://www.lcv.org/roll-call-vote/short-circuiting-environmental-review-and-public-input-for-computer-chip-factories/,257,125,42,false,passed,short-circuiting-environmental-review-and-public-input-for-computer-chip-factories,[clean_water]
+1996,house,Federal Land Acquisition,251,https://www.lcv.org/roll-call-vote/federal-land-acquisition/,183,235,16,true,failed,federal-land-acquisition,[public_lands]
+2021,house,Pro-Environment Funding Package,247,https://www.lcv.org/roll-call-vote/pro-environment-funding-package-2/,219,208,4,true,passed,pro-environment-funding-package-2,[clean_water]
+2022,house,Undermining Environmental Review for Data Centers,417,https://www.lcv.org/roll-call-vote/undermining-environmental-review-for-data-centers/,303,89,37,false,passed,undermining-environmental-review-for-data-centers,"[clean_water, public_lands]"
+2007,house,Hardrock Mining,1030,https://www.lcv.org/roll-call-vote/hardrock-mining/,172,241,19,false,failed,hardrock-mining,[public_lands]
+2024,house,Attacking Critical Oil and Gas Leasing Reforms,95,https://www.lcv.org/roll-call-vote/attacking-critical-oil-and-gas-leasing-reforms/,216,200,10,false,passed,attacking-critical-oil-and-gas-leasing-reforms,[public_lands]
+2007,senate,"Water Resources &#8212; Global Warming",166,https://www.lcv.org/roll-call-vote/water-resources-global-warming/,51,42,7,true,passed,water-resources-global-warming,[clean_water]
+2010,house,San Antonio Mission Park,435,https://www.lcv.org/roll-call-vote/san-antonio-mission-park/,264,114,54,true,passed,san-antonio-mission-park,"[clean_water, public_lands]"
+1994,house,"California Desert &#8212; Land Acquisition",317,https://www.lcv.org/roll-call-vote/california-desert-land-acquisition/,145,269,20,false,failed,california-desert-land-acquisition,[public_lands]
+1998,senate,Blocking Mining Reform,268,https://www.lcv.org/roll-call-vote/blocking-mining-reform/,58,40,2,false,passed,blocking-mining-reform,[public_lands]
+2016,house,Undermining Public Lands and Wildlife Management,101,https://www.lcv.org/roll-call-vote/undermining-public-lands-and-wildlife-management/,242,161,30,false,passed,undermining-public-lands-and-wildlife-management,"[public_lands, wildlife]"
+2016,senate,National Monuments,10,https://www.lcv.org/roll-call-vote/national-monuments-7/,47,48,5,false,failed,national-monuments-7,[public_lands]
+2016,senate,Attack on the Clean Water Rule,57,https://www.lcv.org/roll-call-vote/attack-on-the-clean-water-rule/,56,42,2,false,passed,attack-on-the-clean-water-rule,[clean_water]
+2013,house,Big Oil Giveaway,600,https://www.lcv.org/roll-call-vote/big-oil-giveaway/,228,192,10,false,passed,big-oil-giveaway,[public_lands]
+1991,senate,National Energy Security (2x Score),242,https://www.lcv.org/roll-call-vote/national-energy-security-2x-score/,50,45,5,false,passed,national-energy-security-2x-score,"[wildlife, clean_water, public_lands]"
+1998,house,Tropical Forest Conservation,63,https://www.lcv.org/roll-call-vote/tropical-forest-conservation/,356,61,13,true,passed,tropical-forest-conservation,"[wildlife, public_lands]"
+2013,senate,McCarthy Confirmation (EPA),180,https://www.lcv.org/roll-call-vote/mccarthy-confirmation-epa/,59,40,1,true,passed,mccarthy-confirmation-epa,[clean_water]
+1999,house,Land and Water Conservation Fund,281,https://www.lcv.org/roll-call-vote/land-and-water-conservation-fund-3/,213,202,19,true,passed,land-and-water-conservation-fund-3,[public_lands]
+2021,house,Investing in Climate-Smart and Pro-Wildlife Infrastructure,201,https://www.lcv.org/roll-call-vote/investing-in-climate-smart-and-pro-wildlife-infrastructure/,217,186,24,true,passed,investing-in-climate-smart-and-pro-wildlife-infrastructure,[wildlife]
+2020,house,Eliminating Lead Service Lines to Protect Public Health,136,https://www.lcv.org/roll-call-vote/eliminating-lead-service-lines-to-protect-public-health/,240,181,9,true,passed,eliminating-lead-service-lines-to-protect-public-health,[clean_water]
+2019,house,Public Lands Package,95,https://www.lcv.org/roll-call-vote/public-lands-package-4/,363,62,4,true,passed,public-lands-package-4,[public_lands]
+1996,senate,Endangered Species,30,https://www.lcv.org/roll-call-vote/endangered-species-2/,49,51,0,true,failed,endangered-species-2,[wildlife]
+2011,house,Endangered Species Act,652,https://www.lcv.org/roll-call-vote/endangered-species-act/,224,202,5,true,passed,endangered-species-act,[wildlife]
+2017,house,Forest Management and Public Input,598,https://www.lcv.org/roll-call-vote/forest-management-and-public-input/,232,188,12,false,passed,forest-management-and-public-input,[public_lands]
+2002,house,Klamath Wildlife Refuge Farming Leases,316,https://www.lcv.org/roll-call-vote/klamath-wildlife-refuge-farming-leases-2/,201,223,10,true,failed,klamath-wildlife-refuge-farming-leases-2,"[clean_water, public_lands, wildlife]"
+1999,house,Interior Appropriations Riders,528,https://www.lcv.org/roll-call-vote/interior-appropriations-riders-2/,225,200,8,false,passed,interior-appropriations-riders-2,[public_lands]
+2019,house,Halting Oil Drilling in the Arctic Refuge,384,https://www.lcv.org/roll-call-vote/halting-oil-drilling-in-the-arctic-refuge-2/,198,233,5,false,failed,halting-oil-drilling-in-the-arctic-refuge-2,"[public_lands, wildlife]"
+2012,house,Sea Turtle Protections,236,https://www.lcv.org/roll-call-vote/sea-turtle-protections/,218,201,12,false,passed,sea-turtle-protections,"[wildlife, public_lands]"
+2024,house,Imperiling Endangered Species on Military Land,255,https://www.lcv.org/roll-call-vote/imperiling-endangered-species-on-military-land/,196,231,4,false,failed,imperiling-endangered-species-on-military-land,"[wildlife, public_lands]"
+2023,senate,Attacking the Clean Water Restoration Rule,79,https://www.lcv.org/roll-call-vote/attacking-the-clean-water-restoration-rule/,53,43,2,false,passed,attacking-the-clean-water-restoration-rule,[clean_water]
+2019,senate,Undermining the Antiquities Act,20,https://www.lcv.org/roll-call-vote/undermining-the-antiquities-act-2/,60,33,6,true,passed,undermining-the-antiquities-act-2,[public_lands]
+2025,house,Stifling Public Input and Environmental Review on National Forests,25,https://www.lcv.org/roll-call-vote/stifling-public-input-and-environmental-review-on-national-forests-2/,279,141,6,false,passed,stifling-public-input-and-environmental-review-on-national-forests-2,"[public_lands, wildlife]"
+2006,house,Tongass Logging Roads,168,https://www.lcv.org/roll-call-vote/tongass-logging-roads-2/,237,181,14,true,passed,tongass-logging-roads-2,"[wildlife, public_lands]"
+2019,senate,Stopping Border Wall Funding,10,https://www.lcv.org/roll-call-vote/stopping-border-wall-funding/,52,44,3,true,passed,stopping-border-wall-funding,"[public_lands, wildlife]"
+1996,house,Wildlife Refuges,131,https://www.lcv.org/roll-call-vote/wildlife-refuges/,287,138,7,false,passed,wildlife-refuges,"[wildlife, public_lands]"
+2013,senate,Disaster Relief for Hurricane Sandy,4,https://www.lcv.org/roll-call-vote/disaster-relief-for-hurricane-sandy-2/,62,36,2,true,passed,disaster-relief-for-hurricane-sandy-2,"[wildlife, public_lands]"
+1998,senate,Tax Breaks for Mining on Public Land,67,https://www.lcv.org/roll-call-vote/tax-breaks-for-mining-on-public-land/,55,44,1,false,passed,tax-breaks-for-mining-on-public-land,[public_lands]
+2018,house,Blocking Protections for the New Mexico Meadow Jumping Mouse,353,https://www.lcv.org/roll-call-vote/blocking-protections-for-the-new-mexico-meadow-jumping-mouse/,206,209,12,false,failed,blocking-protections-for-the-new-mexico-meadow-jumping-mouse,[wildlife]
+1989,house,Water Cost-Sharing,106,https://www.lcv.org/roll-call-vote/water-cost-sharing/,179,237,15,true,failed,water-cost-sharing,[clean_water]
+2012,house,Coal Ash Pollution,411,https://www.lcv.org/roll-call-vote/coal-ash-pollution-2/,260,138,34,false,passed,coal-ash-pollution-2,[clean_water]
+2013,house,Clean Water Protections,311,https://www.lcv.org/roll-call-vote/clean-water-protections-4/,177,236,21,true,failed,clean-water-protections-4,[clean_water]
+2014,house,Climate Change and Public Lands,39,https://www.lcv.org/roll-call-vote/climate-change-and-public-lands/,181,242,8,true,failed,climate-change-and-public-lands,[public_lands]
+2014,house,National Ocean Policy,361,https://www.lcv.org/roll-call-vote/national-ocean-policy-3/,179,232,21,true,failed,national-ocean-policy-3,[public_lands]
+2022,senate,Restarting Construction of the Harmful Border Wall,320,https://www.lcv.org/roll-call-vote/restarting-construction-of-the-harmful-border-wall-2/,50,50,0,false,passed,restarting-construction-of-the-harmful-border-wall-2,[public_lands]
+2013,house,Resiliency in Disaster Relief,22,https://www.lcv.org/roll-call-vote/resiliency-in-disaster-relief/,228,192,12,true,passed,resiliency-in-disaster-relief,"[wildlife, public_lands]"
+2001,house,Arsenic,288,https://www.lcv.org/roll-call-vote/arsenic/,218,189,26,true,passed,arsenic,[clean_water]
+2016,house,Blocking Protections for Clean Water,468,https://www.lcv.org/roll-call-vote/blocking-protections-for-clean-water/,178,246,8,true,failed,blocking-protections-for-clean-water,[clean_water]
+2012,house,Flood Insurance Reform,262,https://www.lcv.org/roll-call-vote/flood-insurance-reform-2/,402,18,11,true,passed,flood-insurance-reform-2,"[public_lands, clean_water]"
+2019,house,Protecting Chaco Canyon from Oil and Gas Development,597,https://www.lcv.org/roll-call-vote/protecting-chaco-canyon-from-oil-and-gas-development-2/,245,174,9,true,passed,protecting-chaco-canyon-from-oil-and-gas-development-2,[public_lands]
+2017,senate,Extreme Assault on the Stream Protection Rule (CRA),43,https://www.lcv.org/roll-call-vote/extreme-assault-on-the-stream-protection-rule-cra/,54,45,1,false,passed,extreme-assault-on-the-stream-protection-rule-cra,[clean_water]
+2011,house,Off-Road Vehicles in National Forests,113,https://www.lcv.org/roll-call-vote/off-road-vehicles-in-national-forests/,227,197,8,false,passed,off-road-vehicles-in-national-forests,[public_lands]
+2011,house,Dirty Water Act,573,https://www.lcv.org/roll-call-vote/dirty-water-act/,239,184,7,false,passed,dirty-water-act,[clean_water]
+2013,house,Water Pollution from Mountaintop Removal,312,https://www.lcv.org/roll-call-vote/water-pollution-from-mountaintop-removal/,188,226,20,true,failed,water-pollution-from-mountaintop-removal,[clean_water]
+2011,house,Keystone XL Tar Sands Pipeline,650,https://www.lcv.org/roll-call-vote/keystone-xl-tar-sands-pipeline/,279,147,5,false,passed,keystone-xl-tar-sands-pipeline,"[public_lands, clean_water]"
+2017,senate,Blocking Local Input about Public Lands (CRA),82,https://www.lcv.org/roll-call-vote/blocking-local-input-about-public-lands-cra/,51,48,2,false,passed,blocking-local-input-about-public-lands-cra,[public_lands]
+2005,house,Arctic National Wildlife Refuge,666,https://www.lcv.org/roll-call-vote/arctic-national-wildlife-refuge-5/,214,201,19,false,passed,arctic-national-wildlife-refuge-5,"[wildlife, public_lands]"
+2024,house,Perpetuating Dangerous Lead Exposure,167,https://www.lcv.org/roll-call-vote/perpetuating-dangerous-lead-exposure/,214,201,9,false,passed,perpetuating-dangerous-lead-exposure,"[wildlife, public_lands]"
+2024,house,Supercharging Attacks on Environmental and Consumer Protections,509,https://www.lcv.org/roll-call-vote/supercharging-attacks-on-environmental-and-consumer-protections/,210,201,12,false,passed,supercharging-attacks-on-environmental-and-consumer-protections,[clean_water]
+2006,house,Salvage Logging,147,https://www.lcv.org/roll-call-vote/salvage-logging/,189,236,7,true,failed,salvage-logging,"[public_lands, wildlife]"
+2016,senate,Revenue Sharing for Offshore Drilling,153,https://www.lcv.org/roll-call-vote/revenue-sharing-for-offshore-drilling/,51,47,2,false,passed,revenue-sharing-for-offshore-drilling,[public_lands]
+2025,senate,Removing Public Lands Protections on Culturally and Ecologically Significant Landscapes,560,https://www.lcv.org/roll-call-vote/removing-public-lands-protections-on-culturally-and-ecologically-significant-landscapes-2/,50,46,3,false,passed,removing-public-lands-protections-on-culturally-and-ecologically-significant-landscapes-2,[public_lands]
+2015,house,Ivory Sales,405,https://www.lcv.org/roll-call-vote/ivory-sales/,183,244,6,true,failed,ivory-sales,[wildlife]
+1992,senate,Safe Drinking Water Act,195,https://www.lcv.org/roll-call-vote/safe-drinking-water-act/,43,53,3,false,failed,safe-drinking-water-act,[clean_water]
+2012,house,Keystone XL Tar Sands Pipeline,292,https://www.lcv.org/roll-call-vote/keystone-xl-tar-sands-pipeline-2/,261,152,18,false,passed,keystone-xl-tar-sands-pipeline-2,[clean_water]
+2016,house,Sage Grouse Conservation,474,https://www.lcv.org/roll-call-vote/sage-grouse-conservation/,184,241,7,true,failed,sage-grouse-conservation,[wildlife]
+1999,house,Restricting New Health and Safety Precautions,15,https://www.lcv.org/roll-call-vote/restricting-new-health-and-safety-precautions/,210,216,8,true,failed,restricting-new-health-and-safety-precautions,[clean_water]
+2013,house,Toxic Coal Ash,418,https://www.lcv.org/roll-call-vote/toxic-coal-ash/,265,155,13,false,passed,toxic-coal-ash,[clean_water]
+2016,house,Extreme Attack on Clean Water Protections (CRA),45,https://www.lcv.org/roll-call-vote/extreme-attack-on-clean-water-protections-cra/,253,166,14,false,passed,extreme-attack-on-clean-water-protections-cra,[clean_water]
+2023,senate,Uhlmann Confirmation (Assistant Administrator of the Environmental Protection Agency),193,https://www.lcv.org/roll-call-vote/uhlmann-confirmation-assistant-administrator-of-the-environmental-protection-agency/,53,46,1,true,passed,uhlmann-confirmation-assistant-administrator-of-the-environmental-protection-agency,[clean_water]
+2026,house,Protecting Public Health from Toxic Pesticides,148,https://www.lcv.org/roll-call-vote/protecting-public-health-from-toxic-pesticides/,280,142,13,true,passed,protecting-public-health-from-toxic-pesticides,[agriculture]
+1995,house,Alaska Forest / Mining Giveaway,799,https://www.lcv.org/roll-call-vote/alaska-forest-mining-giveaway/,230,199,4,true,passed,alaska-forest-mining-giveaway,[public_lands]
+2009,senate,Water Resources,292,https://www.lcv.org/roll-call-vote/water-resources/,61,36,2,true,passed,water-resources,"[public_lands, clean_water, wildlife]"
+1991,senate,National Energy Security,242,https://www.lcv.org/roll-call-vote/national-energy-security/,50,45,5,false,passed,national-energy-security,"[wildlife, public_lands, clean_water]"
+2007,house,Clean Water,135,https://www.lcv.org/roll-call-vote/clean-water/,303,108,22,true,passed,clean-water,[clean_water]
+2025,house,Reversing Public Lands Protections to Promote Wyoming Coal Development,294,https://www.lcv.org/roll-call-vote/reversing-public-lands-protections-to-promote-wyoming-coal-development/,214,212,4,false,passed,reversing-public-lands-protections-to-promote-wyoming-coal-development,"[public_lands, wildlife]"
+1999,house,Wild Predator Control,172,https://www.lcv.org/roll-call-vote/wild-predator-control-2/,193,230,11,true,failed,wild-predator-control-2,[wildlife]
+1989,senate,National Forests,145,https://www.lcv.org/roll-call-vote/national-forests-2/,47,52,1,false,failed,national-forests-2,[public_lands]
+2023,house,Funding the Border Wall and Defunding Immigrants’ Civil Rights,505,https://www.lcv.org/roll-call-vote/funding-the-border-wall-and-defunding-immigrants-civil-rights/,219,208,2,false,passed,funding-the-border-wall-and-defunding-immigrants-civil-rights,"[public_lands, wildlife]"
+2005,senate,Tongass Logging Roads,164,https://www.lcv.org/roll-call-vote/tongass-logging-roads-3/,39,59,2,true,failed,tongass-logging-roads-3,"[wildlife, public_lands]"
+2024,house,Anti-Environment Spending Package,399,https://www.lcv.org/roll-call-vote/anti-environment-spending-package-3/,210,205,7,false,passed,anti-environment-spending-package-3,"[wildlife, clean_water]"
+2000,house,Utah Wilderness,240,https://www.lcv.org/roll-call-vote/utah-wilderness/,210,214,11,false,failed,utah-wilderness,[public_lands]
+2011,house,The Chesapeake Bay,120,https://www.lcv.org/roll-call-vote/the-chesapeake-bay/,230,195,7,false,passed,the-chesapeake-bay,[clean_water]
+2005,house,Air Pollution and Oil Refineries,519,https://www.lcv.org/roll-call-vote/air-pollution-and-oil-refineries/,212,210,12,false,passed,air-pollution-and-oil-refineries,[public_lands]
+2012,house,Oil Shale Leasing,59,https://www.lcv.org/roll-call-vote/oil-shale-leasing/,160,265,7,true,failed,oil-shale-leasing,[clean_water]
+2018,house,"Assault on Clean Energy &#038; Clean Water",257,https://www.lcv.org/roll-call-vote/assault-on-clean-energy-clean-water-2/,235,179,13,false,passed,assault-on-clean-energy-clean-water-2,[clean_water]
+2020,house,Pro-Environment Funding Package,166,https://www.lcv.org/roll-call-vote/pro-environment-funding-package/,224,189,16,true,passed,pro-environment-funding-package,"[clean_water, public_lands]"
+2025,senate,Raising Energy Costs and Providing Polluter Giveaways to Cut Taxes for Billionaires (2X Score),372,https://www.lcv.org/roll-call-vote/raising-energy-costs-and-providing-polluter-giveaways-to-cut-taxes-for-billionaires/,50,50,0,false,passed,raising-energy-costs-and-providing-polluter-giveaways-to-cut-taxes-for-billionaires,"[public_lands, clean_water]"
+1999,house,Wetlands Permits,341,https://www.lcv.org/roll-call-vote/wetlands-permits/,183,245,5,true,failed,wetlands-permits,[clean_water]
+2020,house,Slashing EPA Funding,164,https://www.lcv.org/roll-call-vote/slashing-epa-funding-3/,155,256,18,false,failed,slashing-epa-funding-3,[clean_water]
+1994,house,"California Desert &#8212; Livestock Grazing",315,https://www.lcv.org/roll-call-vote/california-desert-livestock-grazing/,186,207,41,true,failed,california-desert-livestock-grazing,"[public_lands, wildlife]"
+2007,senate,"Farm Bill &#8212; Subsidy Caps",424,https://www.lcv.org/roll-call-vote/farm-bill-subsidy-caps/,56,43,1,true,passed,farm-bill-subsidy-caps,[public_lands]
+1996,senate,Logging Without Laws,33,https://www.lcv.org/roll-call-vote/logging-without-laws/,42,55,3,true,failed,logging-without-laws,"[wildlife, public_lands]"
+1997,house,Irresponsible Grazing Policies,549,https://www.lcv.org/roll-call-vote/irresponsible-grazing-policies/,242,182,9,false,passed,irresponsible-grazing-policies,"[wildlife, public_lands, clean_water]"
+2016,house,Endangered Species Act Riders,463,https://www.lcv.org/roll-call-vote/endangered-species-act-riders/,193,235,4,true,failed,endangered-species-act-riders,[wildlife]
+1990,house,Unfair Water Subsidies for Unnecessary Crops,171,https://www.lcv.org/roll-call-vote/unfair-water-subsidies-for-unnecessary-crops/,338,55,39,true,passed,unfair-water-subsidies-for-unnecessary-crops,[clean_water]
+2012,house,Clean Water Protections,308,https://www.lcv.org/roll-call-vote/clean-water-protections-2/,152,237,42,true,failed,clean-water-protections-2,[clean_water]
+2012,senate,Industrial Farm Clean Water Violations,159,https://www.lcv.org/roll-call-vote/industrial-farm-clean-water-violations/,56,43,0,false,passed,industrial-farm-clean-water-violations,[clean_water]
+2013,house,Blocking Public Health Protections,432,https://www.lcv.org/roll-call-vote/blocking-public-health-protections/,232,181,20,false,passed,blocking-public-health-protections,[clean_water]
+2012,house,Drilling Everywhere to Fund Transportation,71,https://www.lcv.org/roll-call-vote/drilling-everywhere-to-fund-transportation/,237,187,9,false,passed,drilling-everywhere-to-fund-transportation,"[wildlife, clean_water, public_lands]"
+2016,house,National Ocean Policy,253,https://www.lcv.org/roll-call-vote/national-ocean-policy-5/,189,228,15,true,failed,national-ocean-policy-5,[public_lands]
+2023,senate,Thwarting Critical Habitat for Threatened Species,122,https://www.lcv.org/roll-call-vote/thwarting-critical-habitat-for-threatened-species/,51,49,0,false,passed,thwarting-critical-habitat-for-threatened-species,[wildlife]
+2012,house,Minnesota Boundary Waters Land Exchange,568,https://www.lcv.org/roll-call-vote/minnesota-boundary-waters-land-exchange/,225,189,15,false,passed,minnesota-boundary-waters-land-exchange,"[clean_water, public_lands]"
+2017,senate,Pruitt Confirmation (EPA Administrator),71,https://www.lcv.org/roll-call-vote/pruitt-confirmation-epa-administrator/,52,46,2,false,passed,pruitt-confirmation-epa-administrator,[clean_water]
+1991,house,National Park Integrity,430,https://www.lcv.org/roll-call-vote/national-park-integrity/,143,289,2,false,failed,national-park-integrity,[public_lands]
+2023,house,Rescinding Protections for the Lesser Prairie-Chicken,381,https://www.lcv.org/roll-call-vote/rescinding-protections-for-the-lesser-prairie-chicken-2/,220,206,5,false,passed,rescinding-protections-for-the-lesser-prairie-chicken-2,[wildlife]
+2013,house,Offshore Drilling,304,https://www.lcv.org/roll-call-vote/offshore-drilling-12/,235,186,13,false,passed,offshore-drilling-12,[public_lands]
+2022,senate,Expanding Dirty and Dangerous Offshore Drilling,148,https://www.lcv.org/roll-call-vote/expanding-dirty-and-dangerous-offshore-drilling-2/,53,44,2,false,passed,expanding-dirty-and-dangerous-offshore-drilling-2,[public_lands]
+2023,house,Blocking Funding for Conservation,581,https://www.lcv.org/roll-call-vote/blocking-funding-for-conservation/,212,202,17,false,passed,blocking-funding-for-conservation,[public_lands]
+1996,senate,Utah Wilderness,54,https://www.lcv.org/roll-call-vote/utah-wilderness-2/,51,49,0,false,passed,utah-wilderness-2,[public_lands]
+2009,senate,Public Lands Protection,1,https://www.lcv.org/roll-call-vote/public-lands-protection/,66,12,18,true,passed,public-lands-protection,"[public_lands, clean_water, wildlife]"
+2019,house,Pro-Environment Funding Bill,408,https://www.lcv.org/roll-call-vote/pro-environment-funding-bill/,227,194,10,true,passed,pro-environment-funding-bill,[public_lands]
+1993,house,Mining Law Reform,576,https://www.lcv.org/roll-call-vote/mining-law-reform-2/,148,270,15,false,failed,mining-law-reform-2,[public_lands]
+2000,house,Land Conservation Funding,179,https://www.lcv.org/roll-call-vote/land-conservation-funding/,315,102,17,true,passed,land-conservation-funding,[public_lands]
+2003,house,Forest Roadless Rule,386,https://www.lcv.org/roll-call-vote/forest-roadless-rule/,185,234,15,true,failed,forest-roadless-rule,"[public_lands, wildlife]"
+2007,senate,Biofuels,219,https://www.lcv.org/roll-call-vote/biofuels/,58,34,7,true,passed,biofuels,[public_lands]
+2017,senate,Protecting the Arctic Refuge,243,https://www.lcv.org/roll-call-vote/protecting-the-arctic-refuge/,48,52,0,true,failed,protecting-the-arctic-refuge,[public_lands]
+2023,house,Leasing More Public Lands and Waters for Oil Drilling,93,https://www.lcv.org/roll-call-vote/leasing-more-public-lands-and-waters-for-oil-drilling/,221,205,6,false,passed,leasing-more-public-lands-and-waters-for-oil-drilling,[public_lands]
+2024,house,Rolling Back Critical Arctic Protections,174,https://www.lcv.org/roll-call-vote/rolling-back-critical-arctic-protections/,214,199,10,false,passed,rolling-back-critical-arctic-protections,"[public_lands, wildlife]"
+2003,house,Snowmobiles in Yellowstone,385,https://www.lcv.org/roll-call-vote/snowmobiles-in-yellowstone/,210,210,14,true,passed,snowmobiles-in-yellowstone,"[wildlife, public_lands]"
+2017,senate,Blocking Wildlife Protections in Alaska (CRA),92,https://www.lcv.org/roll-call-vote/blocking-wildlife-protections-in-alaska-cra-2/,52,47,1,false,passed,blocking-wildlife-protections-in-alaska-cra-2,"[wildlife, public_lands]"
+2009,house,Water Resources,366,https://www.lcv.org/roll-call-vote/water-resources-2/,208,212,13,false,failed,water-resources-2,"[public_lands, wildlife, clean_water]"
+2017,senate,"Bernhardt Confirmation (Deputy Secretary, Interior)",166,https://www.lcv.org/roll-call-vote/bernhardt-confirmation-deputy-secretary-interior/,53,43,4,false,passed,bernhardt-confirmation-deputy-secretary-interior,"[wildlife, public_lands]"
+2017,house,Undermining the National Ocean Policy,497,https://www.lcv.org/roll-call-vote/undermining-the-national-ocean-policy/,216,199,17,false,passed,undermining-the-national-ocean-policy,[public_lands]
+2018,house,"Undermining the Land &#038;  Water Conservation Fund",341,https://www.lcv.org/roll-call-vote/undermining-the-land-water-conservation-fund/,172,237,18,false,failed,undermining-the-land-water-conservation-fund,[public_lands]
+2026,senate,Rescinding Protections for the Boundary Waters,84,https://www.lcv.org/roll-call-vote/rescinding-protections-for-the-boundary-waters-3/,50,49,1,false,passed,rescinding-protections-for-the-boundary-waters-3,[public_lands]
+1995,senate,Drinking Water,303,https://www.lcv.org/roll-call-vote/drinking-water/,50,48,2,false,passed,drinking-water,[clean_water]
+2015,house,Grazing on Public Lands,399,https://www.lcv.org/roll-call-vote/grazing-on-public-lands/,178,251,4,true,failed,grazing-on-public-lands,[public_lands]
+2019,senate,Public Lands Package,22,https://www.lcv.org/roll-call-vote/public-lands-package-3/,92,8,0,true,passed,public-lands-package-3,[public_lands]
+2021,senate,Restarting Construction of the Harmful Border Wall,298,https://www.lcv.org/roll-call-vote/restarting-construction-of-the-harmful-border-wall/,48,49,3,false,failed,restarting-construction-of-the-harmful-border-wall,"[public_lands, wildlife]"
+2006,house,Salvage Logging,151,https://www.lcv.org/roll-call-vote/salvage-logging-2/,243,182,7,false,passed,salvage-logging-2,"[wildlife, public_lands]"
+2017,senate,Undermining Federal Safeguards for Protected Species,242,https://www.lcv.org/roll-call-vote/undermining-federal-safeguards-for-protected-species/,49,51,0,false,failed,undermining-federal-safeguards-for-protected-species,[wildlife]
+2025,house,Overturning Protections for the Endangered Gray Wolf,360,https://www.lcv.org/roll-call-vote/overturning-protections-for-the-endangered-gray-wolf/,211,204,14,false,passed,overturning-protections-for-the-endangered-gray-wolf,[wildlife]
+2007,senate,"Farm Bill &#8212; Subsidy Reform",417,https://www.lcv.org/roll-call-vote/farm-bill-subsidy-reform-2/,37,58,5,true,failed,farm-bill-subsidy-reform-2,[public_lands]
+2021,house,Supporting Tribal Management of Bison,427,https://www.lcv.org/roll-call-vote/supporting-tribal-management-of-bison/,373,52,5,true,passed,supporting-tribal-management-of-bison,"[public_lands, wildlife]"
+1996,house,Redwoods and Endangered Species,253,https://www.lcv.org/roll-call-vote/redwoods-and-endangered-species/,257,164,13,true,passed,redwoods-and-endangered-species,"[wildlife, public_lands]"
+2022,house,Protecting Public Lands and Waters Across the West,346,https://www.lcv.org/roll-call-vote/protecting-public-lands-and-waters-across-the-west-3/,219,207,4,true,passed,protecting-public-lands-and-waters-across-the-west-3,[public_lands]
+2012,house,Public Land Grab by Federal Police Agents,385,https://www.lcv.org/roll-call-vote/public-land-grab-by-federal-police-agents/,177,247,8,true,failed,public-land-grab-by-federal-police-agents,[public_lands]
+2018,house,Attack on Oceans and Fisheries Management,321,https://www.lcv.org/roll-call-vote/attack-on-oceans-and-fisheries-management-2/,222,193,12,false,passed,attack-on-oceans-and-fisheries-management-2,[public_lands]
+2025,senate,Undermining an Endangered Species Act Recovery Strategy,597,https://www.lcv.org/roll-call-vote/undermining-an-endangered-species-act-recovery-strategy/,25,72,3,false,failed,undermining-an-endangered-species-act-recovery-strategy,[wildlife]
+2022,senate,Mandatory Oil and Gas Leasing on Public Lands,291,https://www.lcv.org/roll-call-vote/mandatory-oil-and-gas-leasing-on-public-lands/,50,50,0,false,passed,mandatory-oil-and-gas-leasing-on-public-lands,[public_lands]
+1994,senate,"Drinking Water &#8212; Optional Standards",121,https://www.lcv.org/roll-call-vote/drinking-water-optional-standards/,28,67,5,false,failed,drinking-water-optional-standards,[clean_water]
+2015,senate,"Selling Off America&#8217;s Public Lands",106,https://www.lcv.org/roll-call-vote/selling-off-americas-public-lands/,51,49,0,false,passed,selling-off-americas-public-lands,[public_lands]
+1994,senate,"California Desert &#8212; Failing to Create New Parks",88,https://www.lcv.org/roll-call-vote/california-desert-failing-to-create-new-parks/,34,64,2,false,failed,california-desert-failing-to-create-new-parks,"[wildlife, public_lands]"
+1998,senate,"Weakening Land Use Protections &#8212; &#8220;Takings&#8221;",197,https://www.lcv.org/roll-call-vote/weakening-land-use-protections-takings/,52,42,6,false,passed,weakening-land-use-protections-takings,[public_lands]
+2010,house,Gulf Oil Spill Response,513,https://www.lcv.org/roll-call-vote/gulf-oil-spill-response-2/,209,193,31,true,passed,gulf-oil-spill-response-2,[public_lands]
+2009,house,Public Lands Protection,153,https://www.lcv.org/roll-call-vote/public-lands-protection-2/,285,140,6,true,passed,public-lands-protection-2,"[wildlife, clean_water, public_lands]"
+1995,house,Dirty Water Act,337,https://www.lcv.org/roll-call-vote/dirty-water-act-2/,240,185,9,false,passed,dirty-water-act-2,[clean_water]
+2002,senate,Dam Relicensing,81,https://www.lcv.org/roll-call-vote/dam-relicensing/,54,43,3,false,passed,dam-relicensing,"[clean_water, wildlife]"
+2003,house,Delaware Channel Project,391,https://www.lcv.org/roll-call-vote/delaware-channel-project/,194,213,27,true,failed,delaware-channel-project,[clean_water]
+1997,senate,Pave the Parks,59,https://www.lcv.org/roll-call-vote/pave-the-parks/,51,49,0,false,passed,pave-the-parks,[public_lands]
+2016,house,Clean Energy and Public Lands,471,https://www.lcv.org/roll-call-vote/clean-energy-and-public-lands/,192,233,7,true,failed,clean-energy-and-public-lands,[public_lands]
+2012,house,"Broad Assault on Lands &#038; Wildlife",387,https://www.lcv.org/roll-call-vote/broad-assault-on-lands-wildlife/,232,188,12,false,passed,broad-assault-on-lands-wildlife,"[public_lands, wildlife]"
+2014,house,Preventing New Parks,147,https://www.lcv.org/roll-call-vote/preventing-new-parks/,222,201,8,false,passed,preventing-new-parks,[public_lands]
+2016,house,Protecting our Forests,428,https://www.lcv.org/roll-call-vote/protecting-our-forests/,170,256,6,true,failed,protecting-our-forests,[public_lands]
+2024,house,Rescinding Protections for the Boundary Waters,171,https://www.lcv.org/roll-call-vote/rescinding-protections-for-the-boundary-waters/,212,203,9,false,passed,rescinding-protections-for-the-boundary-waters,"[public_lands, clean_water]"
+1995,senate,Endangered Species Standstill,106,https://www.lcv.org/roll-call-vote/endangered-species-standstill/,38,60,2,true,failed,endangered-species-standstill,[wildlife]
+2005,house,Energy Bill,132,https://www.lcv.org/roll-call-vote/energy-bill/,249,183,3,false,passed,energy-bill,"[wildlife, public_lands]"
+2014,house,California Water Resources,50,https://www.lcv.org/roll-call-vote/california-water-resources-2/,229,191,11,false,passed,california-water-resources-2,[clean_water]
+1993,senate,Mining Royalties,81,https://www.lcv.org/roll-call-vote/mining-royalties/,61,38,1,true,passed,mining-royalties,[public_lands]
+1994,house,"Montana Wilderness &#8212; Scientific Study",172,https://www.lcv.org/roll-call-vote/montana-wilderness-scientific-study/,182,240,11,false,failed,montana-wilderness-scientific-study,"[wildlife, public_lands]"
+2005,senate,Arctic Wildlife Refuge,303,https://www.lcv.org/roll-call-vote/arctic-wildlife-refuge-2/,52,47,1,false,passed,arctic-wildlife-refuge-2,"[wildlife, public_lands]"
+2016,house,National Monuments,437,https://www.lcv.org/roll-call-vote/national-monuments-8/,202,225,5,true,failed,national-monuments-8,[public_lands]
+2019,senate,"Blocking Permanent Reauthorization of the Land &#038; Water Conservation Fund",19,https://www.lcv.org/roll-call-vote/blocking-permanent-reauthorization-of-the-land-water-conservation-fund/,68,30,2,true,passed,blocking-permanent-reauthorization-of-the-land-water-conservation-fund,[public_lands]
+2025,house,Undermining Endangered Species Protections,113,https://www.lcv.org/roll-call-vote/undermining-endangered-species-recovery-and-the-endangered-species-act/,216,195,13,false,passed,undermining-endangered-species-recovery-and-the-endangered-species-act,[wildlife]
+2006,senate,Arctic National Wildlife Refuge,74,https://www.lcv.org/roll-call-vote/arctic-national-wildlife-refuge/,51,49,0,false,passed,arctic-national-wildlife-refuge,"[wildlife, public_lands]"
+2003,senate,Devils Lake Project,22,https://www.lcv.org/roll-call-vote/devils-lake-project/,62,34,4,false,passed,devils-lake-project,[clean_water]
+2011,house,"Florida&#8217;s Water Quality",123,https://www.lcv.org/roll-call-vote/floridas-water-quality/,237,189,6,false,passed,floridas-water-quality,[clean_water]
+2011,house,Land and Water Conservation Fund,61,https://www.lcv.org/roll-call-vote/land-and-water-conservation-fund/,213,216,3,false,failed,land-and-water-conservation-fund,[public_lands]
+2023,house,Attacking the Clean Water Restoration Rule,142,https://www.lcv.org/roll-call-vote/attacking-the-clean-water-restoration-rule-2/,227,198,5,false,passed,attacking-the-clean-water-restoration-rule-2,[clean_water]
+2023,house,Blocking Critical Safeguards,265,https://www.lcv.org/roll-call-vote/blocking-critical-safeguards/,221,210,2,false,passed,blocking-critical-safeguards,[clean_water]
+2000,senate,Timber Sales Subsidies,207,https://www.lcv.org/roll-call-vote/timber-sales-subsidies/,45,54,1,true,failed,timber-sales-subsidies,[public_lands]
+2023,house,Blocking Efforts to Advance Equity and Accuracy in Geographic Names,572,https://www.lcv.org/roll-call-vote/blocking-efforts-to-advance-equity-and-accuracy-in-geographic-names-2/,177,246,11,false,failed,blocking-efforts-to-advance-equity-and-accuracy-in-geographic-names-2,[public_lands]
+2003,senate,"Fire Policy &#8212; NEPA Waiver",426,https://www.lcv.org/roll-call-vote/fire-policy-nepa-waiver/,57,34,9,false,passed,fire-policy-nepa-waiver,[public_lands]
+2013,house,"Decimating America&#8217;s Forests",483,https://www.lcv.org/roll-call-vote/decimating-americas-forests/,244,173,15,false,passed,decimating-americas-forests,[public_lands]
+2017,house,Prioritizing Power Companies During Hydropower Licensing,620,https://www.lcv.org/roll-call-vote/prioritizing-power-companies-during-hydropower-licensing/,257,166,9,false,passed,prioritizing-power-companies-during-hydropower-licensing,[clean_water]
+1994,senate,"California Desert &#8212; Creating New Parks",89,https://www.lcv.org/roll-call-vote/california-desert-creating-new-parks/,69,29,2,true,passed,california-desert-creating-new-parks,"[public_lands, wildlife]"
+1993,senate,Wetlands Classification,113,https://www.lcv.org/roll-call-vote/wetlands-classification/,40,54,6,false,failed,wetlands-classification,"[clean_water, public_lands]"
+2017,house,California Water Resources,352,https://www.lcv.org/roll-call-vote/california-water-resources-5/,230,190,12,false,passed,california-water-resources-5,[clean_water]
+2018,senate,Wheeler Confirmation (EPA Deputy Administrator),71,https://www.lcv.org/roll-call-vote/wheeler-confirmation-epa-deputy-administrator-2/,53,45,1,false,passed,wheeler-confirmation-epa-deputy-administrator-2,[clean_water]
+1999,house,Mining Waste,288,https://www.lcv.org/roll-call-vote/mining-waste/,273,151,10,true,passed,mining-waste,[public_lands]
+2006,house,Arctic National Wildlife Refuge,209,https://www.lcv.org/roll-call-vote/arctic-national-wildlife-refuge-2/,225,201,7,false,passed,arctic-national-wildlife-refuge-2,"[wildlife, public_lands]"
+2025,house,Gutting Environmental Review and Public Input,356,https://www.lcv.org/roll-call-vote/speed-act/,221,196,13,false,passed,speed-act,[clean_water]
+1992,senate,1872 Mining Law Reform,172,https://www.lcv.org/roll-call-vote/1872-mining-law-reform/,44,52,4,true,failed,1872-mining-law-reform,[public_lands]
+2012,house,Regional Haze Air Pollution,600,https://www.lcv.org/roll-call-vote/regional-haze-air-pollution/,228,183,18,false,passed,regional-haze-air-pollution,[public_lands]
+2012,senate,"Gulf Coast Restoration &#038; Land and Water Conservation Fund",32,https://www.lcv.org/roll-call-vote/gulf-coast-restoration-land-and-water-conservation-fund/,76,22,1,true,passed,gulf-coast-restoration-land-and-water-conservation-fund,"[public_lands, clean_water]"
+2013,senate,Jewell Confirmation (DOI),94,https://www.lcv.org/roll-call-vote/jewell-confirmation-doi/,87,11,2,true,passed,jewell-confirmation-doi,"[public_lands, wildlife]"
+1991,house,California Desert Protection Act,420,https://www.lcv.org/roll-call-vote/california-desert-protection-act/,150,241,43,false,failed,california-desert-protection-act,"[wildlife, public_lands]"
+2005,house,Arctic National Wildlife Refuge,122,https://www.lcv.org/roll-call-vote/arctic-national-wildlife-refuge-3/,200,231,3,true,failed,arctic-national-wildlife-refuge-3,"[wildlife, public_lands]"
+2000,house,National Monuments,280,https://www.lcv.org/roll-call-vote/national-monuments-3/,187,234,13,false,failed,national-monuments-3,[public_lands]
+1996,house,Logging Roads,266,https://www.lcv.org/roll-call-vote/logging-roads/,211,211,13,true,passed,logging-roads,"[wildlife, public_lands]"
+2006,senate,Army Corps of Engineers Projects Reform,208,https://www.lcv.org/roll-call-vote/army-corps-of-engineers-projects-reform/,54,46,0,true,passed,army-corps-of-engineers-projects-reform,[clean_water]
+2016,house,Gray Wolves,452,https://www.lcv.org/roll-call-vote/gray-wolves/,223,201,8,false,passed,gray-wolves,[wildlife]
+2011,house,Environmental Funding,633,https://www.lcv.org/roll-call-vote/environmental-funding/,126,284,21,false,failed,environmental-funding,"[clean_water, wildlife, public_lands]"
+1997,house,Restricting World Heritage Sites and Biosphere Reserves,504,https://www.lcv.org/roll-call-vote/restricting-world-heritage-sites-and-biosphere-reserves/,236,191,6,false,passed,restricting-world-heritage-sites-and-biosphere-reserves,[public_lands]
+2001,house,Farm Conservation,366,https://www.lcv.org/roll-call-vote/farm-conservation-3/,200,226,5,true,failed,farm-conservation-3,[public_lands]
+2022,house,Establishing National Heritage Areas,540,https://www.lcv.org/roll-call-vote/establishing-national-heritage-areas/,326,95,9,true,passed,establishing-national-heritage-areas,[public_lands]
+1994,house,"California Desert &#8212; Off-Road Vehicles",231,https://www.lcv.org/roll-call-vote/california-desert-off-road-vehicles/,169,188,77,false,failed,california-desert-off-road-vehicles,"[wildlife, public_lands]"
+2012,senate,Keystone XL Tar Sands Pipeline (KXL),34,https://www.lcv.org/roll-call-vote/keystone-xl-tar-sands-pipeline-kxl/,56,42,1,false,passed,keystone-xl-tar-sands-pipeline-kxl,[clean_water]
+2015,house,Big Oil Subsidies on Public Lands,408,https://www.lcv.org/roll-call-vote/big-oil-subsidies-on-public-lands/,231,198,4,false,passed,big-oil-subsidies-on-public-lands,[public_lands]
+2017,senate,Anti-Environmental Tax Bill that Opens Drilling in the Arctic Refuge,323,https://www.lcv.org/roll-call-vote/anti-environmental-tax-bill-that-opens-drilling-in-the-arctic-refuge-2/,51,48,1,false,passed,anti-environmental-tax-bill-that-opens-drilling-in-the-arctic-refuge-2,[public_lands]
+2006,senate,Army Corps of Engineers Projects Reform,209,https://www.lcv.org/roll-call-vote/army-corps-of-engineers-projects-reform-2/,49,51,0,false,failed,army-corps-of-engineers-projects-reform-2,[clean_water]
+1990,house,Wild and Scenic Rivers,197,https://www.lcv.org/roll-call-vote/wild-and-scenic-rivers-2/,115,302,15,false,failed,wild-and-scenic-rivers-2,"[public_lands, clean_water]"
+2003,house,Energy Plan (2x Score),145,https://www.lcv.org/roll-call-vote/energy-plan-2x-score/,247,175,13,false,passed,energy-plan-2x-score,"[clean_water, public_lands, wildlife]"
+1994,house,"California Desert &#8212; Revoke Protection",355,https://www.lcv.org/roll-call-vote/california-desert-revoke-protection/,138,283,13,false,failed,california-desert-revoke-protection,"[public_lands, wildlife]"
+2012,house,Environmental Assault in the Transportation Bill,170,https://www.lcv.org/roll-call-vote/environmental-assault-in-the-transportation-bill/,293,127,11,false,passed,environmental-assault-in-the-transportation-bill,[clean_water]
+2014,house,Big Oil Giveaway,368,https://www.lcv.org/roll-call-vote/big-oil-giveaway-2/,229,185,18,false,passed,big-oil-giveaway-2,[public_lands]
+2018,house,National Ocean Policy,250,https://www.lcv.org/roll-call-vote/national-ocean-policy-8/,195,223,9,true,failed,national-ocean-policy-8,[public_lands]
+2024,house,Jeopardizing Public Lands with Mining,191,https://www.lcv.org/roll-call-vote/jeopardizing-public-lands-with-mining/,216,195,10,false,passed,jeopardizing-public-lands-with-mining,[public_lands]
+2012,house,Migratory Bird Treaty Act,447,https://www.lcv.org/roll-call-vote/migratory-bird-treaty-act/,234,191,7,false,passed,migratory-bird-treaty-act,[wildlife]
+1999,senate,Mountaintop Mining,370,https://www.lcv.org/roll-call-vote/mountaintop-mining/,56,33,11,false,passed,mountaintop-mining,[clean_water]
+1993,house,Stopping the Timber Giveaway,323,https://www.lcv.org/roll-call-vote/stopping-the-timber-giveaway/,164,259,10,true,failed,stopping-the-timber-giveaway,[public_lands]
+2014,house,Public Lands Assault,41,https://www.lcv.org/roll-call-vote/public-lands-assault-2/,268,154,9,false,passed,public-lands-assault-2,[public_lands]
+2015,senate,"Land &#038; Water Conservation Fund (LWCF)",43,https://www.lcv.org/roll-call-vote/land-water-conservation-fund-lwcf/,59,39,1,true,passed,land-water-conservation-fund-lwcf,[public_lands]
+2026,house,Rescinding Protections for the Boundary Waters,38,https://www.lcv.org/roll-call-vote/rescinding-protections-for-the-boundary-waters-2/,214,208,9,false,passed,rescinding-protections-for-the-boundary-waters-2,[public_lands]
+1997,house,Endangered Species Act Flood Waivers,108,https://www.lcv.org/roll-call-vote/endangered-species-act-flood-waivers/,227,196,10,true,passed,endangered-species-act-flood-waivers,[wildlife]
+2015,senate,National Monuments,37,https://www.lcv.org/roll-call-vote/national-monuments-5/,50,47,2,false,passed,national-monuments-5,[public_lands]
+2014,house,Attack on Clean Water,394,https://www.lcv.org/roll-call-vote/attack-on-clean-water/,239,182,11,false,passed,attack-on-clean-water,[clean_water]
+2025,house,"Extending the Operation of Dirty, Expensive Power Plants",342,https://www.lcv.org/roll-call-vote/power-plant-reliability-act/,222,202,5,false,passed,power-plant-reliability-act,[clean_water]
+1997,house,Grazing Subsidy,546,https://www.lcv.org/roll-call-vote/grazing-subsidy/,205,219,8,true,failed,grazing-subsidy,"[public_lands, clean_water, wildlife]"
+2011,house,National Monuments,139,https://www.lcv.org/roll-call-vote/national-monuments/,209,213,10,false,failed,national-monuments,[public_lands]
+2025,house,Permission to Pollute Our Waters Act,330,https://www.lcv.org/roll-call-vote/permission-to-pollute-our-waters-act/,221,205,5,false,passed,permission-to-pollute-our-waters-act,[clean_water]
+1993,senate,Livestock Grazing on Public Lands,266,https://www.lcv.org/roll-call-vote/livestock-grazing-on-public-lands/,59,40,1,false,passed,livestock-grazing-on-public-lands,[public_lands]
+1998,house,"Weakening Land Use Protections &#8212; &#8220;Takings&#8221;",52,https://www.lcv.org/roll-call-vote/weakening-land-use-protections-takings-2/,230,180,19,false,passed,weakening-land-use-protections-takings-2,[public_lands]
+1989,senate,Groundwater Pollution,185,https://www.lcv.org/roll-call-vote/groundwater-pollution/,65,33,2,true,passed,groundwater-pollution,[clean_water]
+1999,senate,Mining Waste Disposal,223,https://www.lcv.org/roll-call-vote/mining-waste-disposal/,55,41,4,false,passed,mining-waste-disposal,[public_lands]
+2022,senate,Undermining Environmental Review and Mandating Coal Leasing,306,https://www.lcv.org/roll-call-vote/undermining-environmental-review-and-mandating-coal-leasing/,50,50,0,false,passed,undermining-environmental-review-and-mandating-coal-leasing,[public_lands]
+1995,senate,Drilling II,525,https://www.lcv.org/roll-call-vote/drilling-ii/,51,48,0,false,passed,drilling-ii,"[wildlife, public_lands]"
+1991,house,Wild and Scenic Rivers,87,https://www.lcv.org/roll-call-vote/wild-and-scenic-rivers/,109,293,28,false,failed,wild-and-scenic-rivers,"[public_lands, wildlife, clean_water]"
+2001,senate,Farm Conservation Funding,261,https://www.lcv.org/roll-call-vote/farm-conservation-funding/,52,48,0,true,passed,farm-conservation-funding,[public_lands]
+2011,house,Controlling Aquatic Invasive Species,836,https://www.lcv.org/roll-call-vote/controlling-aquatic-invasive-species/,161,237,34,true,failed,controlling-aquatic-invasive-species,"[wildlife, clean_water]"
+2013,senate,Clean Water Protections,119,https://www.lcv.org/roll-call-vote/clean-water-protections-3/,52,44,4,false,passed,clean-water-protections-3,[clean_water]
+2015,house,Stream Buffer Zone,397,https://www.lcv.org/roll-call-vote/stream-buffer-zone/,189,239,5,true,failed,stream-buffer-zone,[clean_water]
+2023,senate,Blocking Forced Approval of the Mountain Valley Pipeline,145,https://www.lcv.org/roll-call-vote/blocking-forced-approval-of-the-mountain-valley-pipeline/,30,69,1,true,failed,blocking-forced-approval-of-the-mountain-valley-pipeline,[clean_water]
+2012,house,Land Conservation Cuts,554,https://www.lcv.org/roll-call-vote/land-conservation-cuts/,223,197,10,false,passed,land-conservation-cuts,[public_lands]
+2013,house,Agricultural Conservation Practices,260,https://www.lcv.org/roll-call-vote/agricultural-conservation-practices/,157,266,11,true,failed,agricultural-conservation-practices,"[clean_water, public_lands]"
+2020,house,Protecting People from PFAS Pollution,13,https://www.lcv.org/roll-call-vote/protecting-people-from-pfas-pollution/,247,159,19,true,passed,protecting-people-from-pfas-pollution,[clean_water]
+2025,senate,Undermining Preservation of Marine Cultural Heritage,92,https://www.lcv.org/roll-call-vote/undermining-preservation-of-marine-cultural-heritage/,54,44,2,false,passed,undermining-preservation-of-marine-cultural-heritage,[public_lands]
+1997,house,"Weakening Land Use Protections &#8212; &#8220;Takings&#8221;",519,https://www.lcv.org/roll-call-vote/weakening-land-use-protections-takings-3/,248,178,8,false,passed,weakening-land-use-protections-takings-3,[public_lands]
+2018,house,"Blocking Protections for Preble&#8217;s Meadow Jumping Mouse",350,https://www.lcv.org/roll-call-vote/blocking-protections-for-prebles-meadow-jumping-mouse/,213,201,13,false,passed,blocking-protections-for-prebles-meadow-jumping-mouse,[wildlife]
+2012,house,Broad Environmental Assault,603,https://www.lcv.org/roll-call-vote/broad-environmental-assault/,233,175,21,false,passed,broad-environmental-assault,"[clean_water, public_lands]"
+2022,house,Pro-Environment Funding Package,383,https://www.lcv.org/roll-call-vote/pro-environment-funding-package-4/,220,207,3,true,passed,pro-environment-funding-package-4,[clean_water]
+2023,house,Halting Protections for the Northern Long-Eared Bat,382,https://www.lcv.org/roll-call-vote/halting-protections-for-the-northern-long-eared-bat-3/,220,209,2,false,passed,halting-protections-for-the-northern-long-eared-bat-3,[wildlife]
+2018,house,Privatizing Federal Infrastructure,325,https://www.lcv.org/roll-call-vote/privatizing-federal-infrastructure/,233,184,10,false,passed,privatizing-federal-infrastructure,[clean_water]
+1989,senate,Oil Tanker Double Hulls,163,https://www.lcv.org/roll-call-vote/oil-tanker-double-hulls/,51,48,1,false,passed,oil-tanker-double-hulls,[public_lands]
+2022,senate,Undermining Bedrock Environmental Statutes,300,https://www.lcv.org/roll-call-vote/undermining-bedrock-environmental-statutes/,49,50,1,false,failed,undermining-bedrock-environmental-statutes,[clean_water]
+2021,house,Protecting Public Lands and Waters Across the West,45,https://www.lcv.org/roll-call-vote/protecting-public-lands-and-waters-across-the-west/,227,200,4,true,passed,protecting-public-lands-and-waters-across-the-west,[public_lands]
+1998,house,Alaska Logging Roads,329,https://www.lcv.org/roll-call-vote/alaska-logging-roads/,186,238,10,true,failed,alaska-logging-roads,"[wildlife, public_lands]"
+1990,house,Saving Salmon by Demanding the User Pay,177,https://www.lcv.org/roll-call-vote/saving-salmon-by-demanding-the-user-pay/,140,277,15,true,failed,saving-salmon-by-demanding-the-user-pay,"[wildlife, clean_water]"
+1996,senate,Grazing II,50,https://www.lcv.org/roll-call-vote/grazing-ii/,50,47,3,false,passed,grazing-ii,"[wildlife, clean_water, public_lands]"
+2011,senate,Sweeping Environmental Funding and Policy Assault,36,https://www.lcv.org/roll-call-vote/sweeping-environmental-funding-and-policy-assault/,44,56,0,false,failed,sweeping-environmental-funding-and-policy-assault,"[wildlife, clean_water]"
+2025,senate,Burgum Confirmation (Secretary of the Interior),26,https://www.lcv.org/roll-call-vote/burgum-confirmation-secretary-of-the-interior/,80,17,1,false,passed,burgum-confirmation-secretary-of-the-interior,"[wildlife, public_lands]"
+2013,senate,Keystone XL Tar Sands Pipeline (KXL),61,https://www.lcv.org/roll-call-vote/keystone-xl-tar-sands-pipeline-kxl-2/,62,37,1,false,passed,keystone-xl-tar-sands-pipeline-kxl-2,[clean_water]
+1995,senate,Mining Law Giveaway,372,https://www.lcv.org/roll-call-vote/mining-law-giveaway/,46,51,3,true,failed,mining-law-giveaway,[public_lands]
+2000,house,Takings,55,https://www.lcv.org/roll-call-vote/takings/,226,182,26,false,passed,takings,"[public_lands, clean_water, wildlife]"
+2012,senate,"Arctic Refuge &#038; Offshore Drilling &#038; KXL",38,https://www.lcv.org/roll-call-vote/arctic-refuge-offshore-drilling-kxl/,41,57,1,false,failed,arctic-refuge-offshore-drilling-kxl,"[public_lands, clean_water, wildlife]"
+2016,house,Arctic National Wildlife Refuge,99,https://www.lcv.org/roll-call-vote/arctic-national-wildlife-refuge-9/,176,227,30,true,failed,arctic-national-wildlife-refuge-9,"[public_lands, wildlife]"
+2016,house,Methane Pollution from Drilling on Public Lands,422,https://www.lcv.org/roll-call-vote/methane-pollution-from-drilling-on-public-lands/,184,240,8,true,failed,methane-pollution-from-drilling-on-public-lands,[public_lands]
+2019,house,Attack on Marine Mammal Protections from Harmful Air Gun Blasting,666,https://www.lcv.org/roll-call-vote/attack-on-marine-mammal-protections-from-harmful-air-gun-blasting-2/,160,259,16,false,failed,attack-on-marine-mammal-protections-from-harmful-air-gun-blasting-2,"[public_lands, wildlife]"
+2013,senate,Advancing Conservation in the Farm Bill,145,https://www.lcv.org/roll-call-vote/advancing-conservation-in-the-farm-bill/,66,27,7,true,passed,advancing-conservation-in-the-farm-bill,"[wildlife, clean_water, public_lands]"
+2015,house,California Water Resources,447,https://www.lcv.org/roll-call-vote/california-water-resources-3/,245,176,12,false,passed,california-water-resources-3,[clean_water]
+2022,senate,Elimination of Superfund Tax,289,https://www.lcv.org/roll-call-vote/elimination-of-superfund-tax/,50,50,0,false,passed,elimination-of-superfund-tax,[clean_water]
+2013,house,National Ocean Policy,557,https://www.lcv.org/roll-call-vote/national-ocean-policy-2/,225,193,12,false,passed,national-ocean-policy-2,[public_lands]
+2003,house,Arctic Drilling,134,https://www.lcv.org/roll-call-vote/arctic-drilling-2/,226,202,6,false,passed,arctic-drilling-2,"[wildlife, public_lands]"
+2025,senate,"Reversing Land Management Planning &#038; Safeguards for Drilling in Alaska’s Western Arctic",599,https://www.lcv.org/roll-call-vote/reversing-land-management-planning-safeguards-for-drilling-in-alaskas-western-arctic/,52,45,3,false,passed,reversing-land-management-planning-safeguards-for-drilling-in-alaskas-western-arctic,"[wildlife, public_lands]"
+2005,house,MTBE Liability,129,https://www.lcv.org/roll-call-vote/mtbe-liability/,213,219,3,true,failed,mtbe-liability,[clean_water]
+2021,house,Investing in Transportation and Water Infrastructure,208,https://www.lcv.org/roll-call-vote/investing-in-transportation-and-water-infrastructure/,221,201,7,true,passed,investing-in-transportation-and-water-infrastructure,[clean_water]
+2026,house,Anti-Environmental Farm Bill,154,https://www.lcv.org/roll-call-vote/anti-environmental-farm-bill-5/,224,200,6,false,passed,anti-environmental-farm-bill-5,[agriculture]
+2017,house,Extreme Assault on the Stream Protection Rule (CRA),73,https://www.lcv.org/roll-call-vote/extreme-assault-on-the-stream-protection-rule-cra-2/,228,194,10,false,passed,extreme-assault-on-the-stream-protection-rule-cra-2,[clean_water]
+2019,house,Banning Offshore Drilling in the Atlantic and Pacific Oceans,525,https://www.lcv.org/roll-call-vote/banning-offshore-drilling-in-the-atlantic-and-pacific-oceans-2/,238,189,3,true,passed,banning-offshore-drilling-in-the-atlantic-and-pacific-oceans-2,[public_lands]
+1992,house,Grazing Fees,300,https://www.lcv.org/roll-call-vote/grazing-fees-2/,164,245,25,false,failed,grazing-fees-2,[public_lands]
+2003,senate,Privatizing the Park Service,361,https://www.lcv.org/roll-call-vote/privatizing-the-park-service/,44,51,5,true,failed,privatizing-the-park-service,[public_lands]
+2002,senate,Arctic Drilling,71,https://www.lcv.org/roll-call-vote/arctic-drilling-4/,46,54,0,false,failed,arctic-drilling-4,"[public_lands, wildlife]"
+2017,house,Attacking Wilderness in the Izembek National Wildlife Refuge,406,https://www.lcv.org/roll-call-vote/attacking-wilderness-in-the-izembek-national-wildlife-refuge/,248,179,5,false,passed,attacking-wilderness-in-the-izembek-national-wildlife-refuge,"[wildlife, public_lands]"
+2019,house,Stopping Border Wall Funding,9,https://www.lcv.org/roll-call-vote/stopping-border-wall-funding-2/,0,0,0,true,passed,stopping-border-wall-funding-2,"[public_lands, wildlife]"
+2021,senate,Bolstering the Dirty Water Rule,43,https://www.lcv.org/roll-call-vote/bolstering-the-dirty-water-rule/,51,49,0,false,passed,bolstering-the-dirty-water-rule,[clean_water]
+2010,senate,Biodiesel Tax Credit,234,https://www.lcv.org/roll-call-vote/biodiesel-tax-credit/,41,58,1,false,failed,biodiesel-tax-credit,[public_lands]
+2012,house,National Monuments,162,https://www.lcv.org/roll-call-vote/national-monuments-4/,223,198,10,false,passed,national-monuments-4,[public_lands]
+2017,house,Pesticides Pollution,282,https://www.lcv.org/roll-call-vote/pesticides-pollution-5/,256,165,9,false,passed,pesticides-pollution-5,[clean_water]
+1994,house,Presidio Park,261,https://www.lcv.org/roll-call-vote/presidio-park/,171,253,10,false,failed,presidio-park,[public_lands]
+2021,senate,Defunding the Civilian Conservation Corps and Wildland Firefighting,303,https://www.lcv.org/roll-call-vote/defunding-the-civilian-conservation-corps-and-wildland-firefighting/,48,50,2,false,failed,defunding-the-civilian-conservation-corps-and-wildland-firefighting,[public_lands]
+2023,house,Blocking Funding for National Monuments Designations,592,https://www.lcv.org/roll-call-vote/blocking-funding-for-national-monuments-designations/,175,244,13,false,failed,blocking-funding-for-national-monuments-designations,[public_lands]
+2011,house,Coal Ash Pollution,800,https://www.lcv.org/roll-call-vote/coal-ash-pollution/,267,144,21,false,passed,coal-ash-pollution,[clean_water]
+2019,house,Protecting the Grand Canyon from Toxic Uranium Mining,602,https://www.lcv.org/roll-call-vote/protecting-the-grand-canyon-from-toxic-uranium-mining-2/,236,185,7,true,passed,protecting-the-grand-canyon-from-toxic-uranium-mining-2,[public_lands]
+2023,house,Eliminating Funding for the Council on Environmental Quality,569,https://www.lcv.org/roll-call-vote/eliminating-funding-for-the-council-on-environmental-quality/,166,253,15,false,failed,eliminating-funding-for-the-council-on-environmental-quality,[public_lands]
+2012,house,California Water Resources,91,https://www.lcv.org/roll-call-vote/california-water-resources/,246,175,11,false,passed,california-water-resources,"[clean_water, wildlife]"
+2021,house,Building Climate-resilient Wastewater Infrastructure,206,https://www.lcv.org/roll-call-vote/building-climate-resilient-wastewater-infrastructure/,220,200,9,true,passed,building-climate-resilient-wastewater-infrastructure,[clean_water]
+1999,senate,Wildlife Surveys,266,https://www.lcv.org/roll-call-vote/wildlife-surveys/,45,52,3,true,failed,wildlife-surveys,"[public_lands, wildlife]"
+1996,senate,Grazing I,48,https://www.lcv.org/roll-call-vote/grazing-i/,52,47,1,false,passed,grazing-i,"[wildlife, clean_water, public_lands]"
+2023,senate,Halting protections for the Northern Long-Eared Bat,123,https://www.lcv.org/roll-call-vote/halting-protections-for-the-northern-long-eared-bat/,51,49,0,false,passed,halting-protections-for-the-northern-long-eared-bat,[wildlife]
+1994,senate,"Drinking Water &#8212; Ending Enforcement",115,https://www.lcv.org/roll-call-vote/drinking-water-ending-enforcement/,56,43,1,true,passed,drinking-water-ending-enforcement,[clean_water]
+2023,house,Establishing Anti-Environment and Anti-Democracy House Rules,23,https://www.lcv.org/roll-call-vote/establishing-anti-environment-and-anti-democracy-house-rules/,219,213,1,false,passed,establishing-anti-environment-and-anti-democracy-house-rules,[clean_water]
+1996,senate,Public Lands Sell-Off,146,https://www.lcv.org/roll-call-vote/public-lands-sell-off-2/,52,46,2,false,passed,public-lands-sell-off-2,"[public_lands, wildlife]"
+1992,senate,Montana Wilderness Bill,55,https://www.lcv.org/roll-call-vote/montana-wilderness-bill/,75,22,3,false,passed,montana-wilderness-bill,"[wildlife, public_lands]"
+2011,house,Gulf Coast Restoration,590,https://www.lcv.org/roll-call-vote/gulf-coast-restoration/,271,148,11,true,passed,gulf-coast-restoration,"[wildlife, public_lands, clean_water]"
+2023,house,Undercutting Protections for Threatened and Endangered Species,322,https://www.lcv.org/roll-call-vote/undercutting-protections-for-threatened-and-endangered-species/,193,237,7,false,failed,undercutting-protections-for-threatened-and-endangered-species,[wildlife]
+1996,senate,Pork Barrel Water Project,251,https://www.lcv.org/roll-call-vote/pork-barrel-water-project/,65,33,2,false,passed,pork-barrel-water-project,"[clean_water, wildlife]"
+2004,house,National Forest Management,254,https://www.lcv.org/roll-call-vote/national-forest-management/,195,230,8,true,failed,national-forest-management,"[public_lands, wildlife]"
+2011,senate,Broad Environmental Assault (S. 1720),202,https://www.lcv.org/roll-call-vote/broad-environmental-assault-s-1720/,40,56,4,false,failed,broad-environmental-assault-s-1720,"[wildlife, clean_water]"
+2018,house,Blocking Protections for the Lesser Prairie Chicken,354,https://www.lcv.org/roll-call-vote/blocking-protections-for-the-lesser-prairie-chicken/,216,199,12,false,passed,blocking-protections-for-the-lesser-prairie-chicken,[wildlife]
+1990,senate,Everglades Protection,166,https://www.lcv.org/roll-call-vote/everglades-protection/,54,44,2,false,passed,everglades-protection,"[clean_water, public_lands, wildlife]"
+1993,house,Protecting the Everglades Ecosystem,264,https://www.lcv.org/roll-call-vote/protecting-the-everglades-ecosystem/,100,320,13,false,failed,protecting-the-everglades-ecosystem,"[clean_water, public_lands, wildlife]"
+2011,house,Pesticides Pollution,206,https://www.lcv.org/roll-call-vote/pesticides-pollution/,292,130,9,false,passed,pesticides-pollution,[clean_water]
+2012,senate,Conservation on Private Farmlands,148,https://www.lcv.org/roll-call-vote/conservation-on-private-farmlands/,15,84,0,false,failed,conservation-on-private-farmlands,"[clean_water, public_lands]"
+2018,house,Undermining Safeguards for Safe Seafood Consumption,348,https://www.lcv.org/roll-call-vote/undermining-safeguards-for-safe-seafood-consumption-2/,227,185,15,false,passed,undermining-safeguards-for-safe-seafood-consumption-2,[public_lands]
+2014,house,Toxic Mining Waste,141,https://www.lcv.org/roll-call-vote/toxic-mining-waste/,229,192,10,false,passed,toxic-mining-waste,[clean_water]
+2022,house,Protecting People from Toxic Incineration,330,https://www.lcv.org/roll-call-vote/protecting-people-from-toxic-incineration/,233,196,1,true,passed,protecting-people-from-toxic-incineration,[clean_water]
+2017,house,Extreme Assault on the Methane and Waste Prevention Rule (CRA),78,https://www.lcv.org/roll-call-vote/extreme-assault-on-the-methane-and-waste-prevention-rule-cra/,221,191,20,false,passed,extreme-assault-on-the-methane-and-waste-prevention-rule-cra,[public_lands]
+2015,senate,Prairie-Chicken Protections,35,https://www.lcv.org/roll-call-vote/prairie-chicken-protections/,54,44,1,false,passed,prairie-chicken-protections,[wildlife]
+1995,senate,Crippling the EPA,470,https://www.lcv.org/roll-call-vote/crippling-the-epa/,55,45,0,false,passed,crippling-the-epa,[clean_water]
+1995,house,Logging Without Laws,240,https://www.lcv.org/roll-call-vote/logging-without-laws-3/,150,276,8,true,failed,logging-without-laws-3,[public_lands]
+2018,house,Eliminating Clean Water Safeguards,203,https://www.lcv.org/roll-call-vote/eliminating-clean-water-safeguards-3/,238,173,16,false,passed,eliminating-clean-water-safeguards-3,[clean_water]
+2021,senate,Regan Confirmation (EPA Administrator),116,https://www.lcv.org/roll-call-vote/regan-confirmation-epa-administrator/,66,34,0,true,passed,regan-confirmation-epa-administrator,[clean_water]
+1998,house,Gulf of Mexico Fisheries Management,395,https://www.lcv.org/roll-call-vote/gulf-of-mexico-fisheries-management/,141,283,10,false,failed,gulf-of-mexico-fisheries-management,[public_lands]
+2001,house,EPA Enforcement,289,https://www.lcv.org/roll-call-vote/epa-enforcement/,182,214,37,true,failed,epa-enforcement,[clean_water]
+2023,senate,"Blocking Environmental, Public Health, Consumer, and Worker Protections",283,https://www.lcv.org/roll-call-vote/blocking-environmental-public-health-consumer-and-worker-protections/,46,51,3,false,failed,blocking-environmental-public-health-consumer-and-worker-protections,[clean_water]
+2024,house,Undermining Wildlife Protections and the Endangered Species Act,169,https://www.lcv.org/roll-call-vote/undermining-wildlife-protections-and-the-endangered-species-act/,209,205,10,false,passed,undermining-wildlife-protections-and-the-endangered-species-act,[wildlife]
+1993,house,Livestock Grazing on Public Land,465,https://www.lcv.org/roll-call-vote/livestock-grazing-on-public-land/,314,109,10,true,passed,livestock-grazing-on-public-land,[public_lands]
+2017,house,Anti-Environmental Tax Bill that Opens Drilling in the Arctic Refuge,699,https://www.lcv.org/roll-call-vote/anti-environmental-tax-bill-that-opens-drilling-in-the-arctic-refuge/,224,201,7,false,passed,anti-environmental-tax-bill-that-opens-drilling-in-the-arctic-refuge,[public_lands]
+2019,senate,Undermining the Land and Water Conservation Fund,339,https://www.lcv.org/roll-call-vote/undermining-the-land-and-water-conservation-fund-3/,29,64,7,false,failed,undermining-the-land-and-water-conservation-fund-3,[public_lands]
+2023,house,Reversing Protections for the Greater Chaco Canyon Region,580,https://www.lcv.org/roll-call-vote/reversing-protections-for-the-greater-chaco-canyon-region/,191,219,22,false,failed,reversing-protections-for-the-greater-chaco-canyon-region,[public_lands]
+2013,house,"Protecting Public Input &#038; Environmental Review",556,https://www.lcv.org/roll-call-vote/protecting-public-input-environmental-review/,183,236,11,true,failed,protecting-public-input-environmental-review,[clean_water]
+1999,house,Timber Revenues for Rural Communities,560,https://www.lcv.org/roll-call-vote/timber-revenues-for-rural-communities/,274,153,6,false,passed,timber-revenues-for-rural-communities,[public_lands]
+2016,senate,"Land &#038; Water Conservation Fund (LWCF)",50,https://www.lcv.org/roll-call-vote/land-water-conservation-fund-lwcf-2/,34,63,3,false,failed,land-water-conservation-fund-lwcf-2,[public_lands]
+2017,house,Blocking Local Input about Public Lands (CRA),83,https://www.lcv.org/roll-call-vote/blocking-local-input-about-public-lands-cra-2/,234,186,12,false,passed,blocking-local-input-about-public-lands-cra-2,[public_lands]
+2016,senate,Mitigating Impacts on Fish and Wildlife,69,https://www.lcv.org/roll-call-vote/mitigating-impacts-on-fish-and-wildlife/,39,60,1,true,failed,mitigating-impacts-on-fish-and-wildlife,[wildlife]
+2020,house,Closing the PFAS Clean Water Loophole,11,https://www.lcv.org/roll-call-vote/closing-the-pfas-clean-water-loophole/,242,168,21,true,passed,closing-the-pfas-clean-water-loophole,[clean_water]
+1991,senate,Protecting Taxpayers,191,https://www.lcv.org/roll-call-vote/protecting-taxpayers/,47,46,7,false,passed,protecting-taxpayers,[public_lands]
+2008,house,"Farm Bill &#8212; Subsidy Reform",258,https://www.lcv.org/roll-call-vote/farm-bill-subsidy-reform/,140,274,18,true,failed,farm-bill-subsidy-reform,[public_lands]
+2008,house,Public Lands Grazing,172,https://www.lcv.org/roll-call-vote/public-lands-grazing/,212,204,14,false,passed,public-lands-grazing,[public_lands]

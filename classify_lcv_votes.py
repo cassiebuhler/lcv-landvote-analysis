@@ -20,9 +20,9 @@ Usage
 -----
     pip install pandas requests beautifulsoup4 lxml
     python classify_lcv_votes_keyword.py \
-        --input  lcv_congressional_votes_filtered.csv \
-        --output lcv_votes_classified.csv \
-        --cache  lcv_descriptions_cache.csv
+        --input  outputs/lcv_congressional_votes_filtered.csv \
+        --output outputs/lcv_votes_classified.csv \
+        --cache  outputs/lcv_descriptions_cache.csv
 
 The --cache file stores scraped descriptions so re-runs are fast. Delete
 the cache file to re-scrape from scratch.
@@ -521,7 +521,7 @@ def main():
     )
     ap.add_argument("--input", required=True, help="LCV votes CSV")
     ap.add_argument("--output", required=True, help="Output CSV with category column")
-    ap.add_argument("--cache", default="lcv_descriptions_cache.csv",
+    ap.add_argument("--cache", default="outputs/lcv_descriptions_cache.csv",
                     help="Cache file for scraped descriptions")
     ap.add_argument("--limit", type=int, default=None,
                     help="Process only the first N rows (for testing)")
